@@ -1,4 +1,149 @@
-baseURL: https://app.linjimi.com/
-languageCode: en-us
+baseURL: "https://hoa.moe/"
 title: JimmyRespawn
-theme: hextra
+theme: ["hextra", "hugo-embed-pdf-shortcode"]
+
+enableRobotsTXT: true
+enableGitInfo: true
+# enableEmoji: false
+hasCJKLanguage: true
+
+services:
+  googleAnalytics:
+    ID: G-1WZZVFN1XB
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: JimmyRespawn
+  zh-cn:
+    languageName: 简体中文
+    languageCode: zh-CN
+    weight: 2
+    title: 墨菲
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - identifier: documentation
+      name: Documentation
+      pageRef: /docs
+      weight: 1
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 2
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 5
+    - name: Search
+      weight: 6
+      params:
+        type: search
+    - name: GitHub
+      weight: 7 
+      url: "https://github.com/JimmyRespawn"
+      params:
+        icon: github
+
+  sidebar:
+    - identifier: more
+      name: More
+      params:
+        type: separator
+      weight: 1
+    - identifier: githubPage
+      name: "GitHub ↗"
+      url: "https://github.com/JimmyRespawn"
+      weight: 5
+
+params:
+  description: Empower the Windows app experience
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+
+  displayUpdatedDate: false
+
+  # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
+
+  editURL:
+    enable: true
+    base: "https://github.com/HITSZ-OpenAuto/hoa-moe/edit/main/content/"
+    
+  blog:
+    list:
+      displayTags: true
+
+  news:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+
+  comments:
+    enable: false
+    type: giscus
+
+    # https://giscus.app/
+    giscus:
+      repo: HITSZ-OpenAuto/hoa-moe
+      repoId: R_kgDOKmcukw
+      category: General
+      categoryId: DIC_kwDOKmcuk84Cdqlf
+      mapping: pathname
+      strict: 0
+      reactionsEnabled: 1
+      emitMetadata: 0
+      inputPosition: bottom
+      lang: en-US
