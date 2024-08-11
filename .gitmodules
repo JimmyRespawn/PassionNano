@@ -1,0 +1,7 @@
+[submodule "productblog/themes/hextra"]
+	path = productblog/themes/hextra
+	url = https://github.com/imfing/hextra.git
+[submodule "productblog/public"]
+	path = productblog/public
+	url = https://github.com/JimmyRespawn/jimmyrespawnapp.github.io.git
+	branch = main
