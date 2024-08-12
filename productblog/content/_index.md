@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: JimmyRespawn
 layout: hextra-home
 ---
 
