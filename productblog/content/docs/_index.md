@@ -31,7 +31,7 @@ for the Windows and Xbox platforms, leveraging the latest Microsoft technologies
 Dive right into the following section to get started:
 
 {{< cards >}}
-  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Learn how to download apps using Store" >}}
+  {{< card link="https://apps.microsoft.com/search/publisher?name=JimmyRespawn&hl=en-US&gl=US" title="Getting Started" icon="document-text" subtitle="Learn how to download apps using Store" >}}
 {{< /cards >}}
 
 [MSFT store]: https://apps.microsoft.com/search/publisher?name=JimmyRespawn&hl=en-US&gl=US
