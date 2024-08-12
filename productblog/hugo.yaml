@@ -1,4 +1,4 @@
-baseURL: "https://hoa.moe/"
+baseURL: "https://app.linjimi.com/"
 title: JimmyRespawn
 theme: ["hextra", "hugo-embed-pdf-shortcode"]
 
@@ -26,7 +26,7 @@ languages:
     languageName: 简体中文
     languageCode: zh-CN
     weight: 2
-    title: 墨菲
+    title: 墨菲纳米
 
 markup:
   goldmark:
@@ -39,10 +39,10 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: documentation
-      name: Documentation
-      pageRef: /docs
-      weight: 1
+#     - identifier: documentation
+#       name: Documentation
+#       pageRef: /docs
+#       weight: 1
     - identifier: blog
       name: Blog
       pageRef: /blog
@@ -51,10 +51,10 @@ menu:
       name: About
       pageRef: /about
       weight: 5
-    - name: Search
-      weight: 6
-      params:
-        type: search
+#     - name: Search
+#       weight: 6
+#       params:
+#         type: search
     - name: GitHub
       weight: 7 
       url: "https://github.com/JimmyRespawn"
@@ -118,7 +118,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/HITSZ-OpenAuto/hoa-moe/edit/main/content/"
+    base: "https://github.com/JimmyRespawn/PassionNano/tree/main/productblog/content/"
     
   blog:
     list:

@@ -3,29 +3,27 @@ linkTitle: "Documentation"
 title: Introduction
 ---
 
-👋 Hello! Welcome to the Hextra documentation!
+👋 Hello! Welcome to the JimmyRespawn documentation!
 
 <!--more-->
 
-## What is Hextra?
+## What is JimmyRespawn?
 
-Hextra is a modern, fast and batteries-included [Hugo][hugo] theme built with [Tailwind CSS][tailwind-css].
-Designed for building beautiful websites for documentation, blogs, and websites, it provides out-of-the-box features and flexibility to meet various requirements.
+JimmyRespawn is a software publisher dedicated to delivering high-quality native apps.
+for the Windows and Xbox platforms, leveraging the latest Microsoft technologies to enhance user experiences.
 
 ## Features
 
-- **Beautiful Design** - Inspired by Nextra, Hextra utilizes Tailwind CSS to offer a modern design that makes your site look outstanding.
-- **Responsive Layout and Dark Mode** - It looks great on all devices, from mobile, tablet to desktop. Dark mode is also supported to accommodate various lighting conditions.
-- **Fast and Lightweight** - Powered by Hugo, a lightning-fast static-site generator housed in a single binary file, Hextra keeps its footprint minimal. No JavaScript or Node.js are needed to use it.
-- **Full-text Search** - Built-in offline full-text search powered by FlexSearch, no additional configuration required.
-- **Battery-included** - Markdown, syntax highlighting, LaTeX math formulae, diagrams and Shortcodes elements to enhance your content. Table of contents, breadcrumbs, pagination, sidebar navigation and more are all automatically generated.
-- **Multi-language and SEO Ready** - Multi-language sites made easy with Hugo's multilingual mode. Out-of-the-box support is included for SEO tags, Open Graph, and Twitter Cards.
+- **Beautiful Design** - Inspired by Fluent guideline to offer a modern design that makes app look outstanding.
+- **Responsive Layout and Dark Mode** - It looks great on all devices, from Xbox, tablet to desktop. Dark mode is also supported to accommodate various lighting conditions.
+- **Fast and Lightweight** - Powered by UWP, a lightning-fast software infrastructure built with .Net native, JimmyRespawn keeps its footprint minimal. No extra EXE installation are needed to use it.
+- **Multi-language** - Multi-language apps made easy with JimmyRespawn's multilingual mode.
 
 ## Questions or Feedback?
 
 {{< callout emoji="❓" >}}
-  Hextra is still in active development.
-  Have a question or feedback? Feel free to [open an issue](https://github.com/imfing/hextra/issues)!
+  JimmyRespawn's apps are still in active development.
+  Have a question or feedback? Feel free to [open an issue](https://github.com/jimmyrespawn/IPTV-Fluent/issues)!
 {{< /callout >}}
 
 ## Next
@@ -33,9 +31,7 @@ Designed for building beautiful websites for documentation, blogs, and websites,
 Dive right into the following section to get started:
 
 {{< cards >}}
-  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Learn how to create website using Hextra" >}}
+  {{< card link="getting-started" title="Getting Started" icon="document-text" subtitle="Learn how to download apps using Store" >}}
 {{< /cards >}}
 
-[hugo]: https://gohugo.io/
-[flex-search]: https://github.com/nextapps-de/flexsearch
-[tailwind-css]: https://tailwindcss.com/
+[MSFT store]: https://apps.microsoft.com/search/publisher?name=JimmyRespawn&hl=en-US&gl=US
