@@ -15,7 +15,7 @@ tags:
 excludeSearch: true
 ---
 
-This site now use Hugo as website engine.
+This site now uses Hugo as the website engine.
 <!--more-->
 
 ## Basic Syntax

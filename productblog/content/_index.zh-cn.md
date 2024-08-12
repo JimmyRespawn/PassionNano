@@ -60,7 +60,7 @@ layout: hextra-home
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9wzdncrd1p4n?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
     title="Game Calendar"
     icon="sparkles"
-    subtitle="获得即将游发售游戏的信息."
+    subtitle="获得即将发售游戏的信息."
   >}}
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9nblggh4whsp?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
     title="焕发因"

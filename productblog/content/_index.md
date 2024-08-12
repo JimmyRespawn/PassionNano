@@ -17,7 +17,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Empower eco-system on Windows platform
+  Empower the ecosystem on the Windows platform
 {{< /hextra/hero-subtitle >}}
 </div>
 

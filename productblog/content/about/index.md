@@ -3,9 +3,12 @@ title: About
 toc: false
 ---
 
-Our vision is to build the best native app experience on Windows and Xbox platform which adopts the latest technology provided by MSFT.
+Our vision is to build the best native app experience on the Windows and Xbox platforms by adopting the latest technology provided by Microsoft.
 
-To support the projects via ① sharing the apps to community, ② purchasing Pro version and ③ leaving 5-star ratings in the store.
+Support the projects by 
+- Sharing the apps with the community
+- Purchasing the Pro version
+- Leaving 5-star ratings in the store.
 
 To follow the app development updates, we will soon open a Telegram announcement channel.
 
