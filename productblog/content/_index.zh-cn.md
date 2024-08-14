@@ -54,17 +54,17 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9ncf5gmw8q1q?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
     title="影者"
-    icon="sparkles"
+    icon="movies"
     subtitle="电影发布信息应用."
   >}}
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9wzdncrd1p4n?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
     title="Game Calendar"
-    icon="sparkles"
+    icon="games"
     subtitle="获得即将发售游戏的信息."
   >}}
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9nblggh4whsp?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
     title="焕发因"
-    icon="sparkles"
+    icon="pills"
     subtitle="使得你的 Windows 不进入休眠."
   >}}
 {{< /hextra/feature-grid >}}

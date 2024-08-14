@@ -54,17 +54,17 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9ncf5gmw8q1q?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
     title="Movier"
-    icon="sparkles"
+    icon="movies"
     subtitle="Let you keep track of latest, popular, upcoming and top rated movies list."
   >}}
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9wzdncrd1p4n?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
     title="Game Calendar"
-    icon="sparkles"
+    icon="games"
     subtitle="Let you keep track of the upcoming games on a variety of gaming platforms."
   >}}
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9nblggh4whsp?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
     title="Amphetamine"
-    icon="sparkles"
+    icon="pills"
     subtitle="Keeps your Windows from going to sleep."
   >}}
 {{< /hextra/feature-grid >}}
