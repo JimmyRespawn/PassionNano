@@ -29,6 +29,8 @@ Always ensure you are using legally acquired M3U files to avoid copyright violat
 
 To start using IPTV Fluent, simply enter the M3U URL in the search bar. 
 
+<!--{{< youtube w7Ft2ymGmfc >}}-->
+
 The software will automatically load the channels and content associated with the M3U file, allowing you to browse and stream with ease.
 
 ## Read More

@@ -1,0 +1,27 @@
+<script>
+  (function() {
+    // 获取用户的首选语言
+    var userLang = navigator.language || navigator.userLanguage;
+    userLang = userLang.toLowerCase();
+
+    // 支持的语言列表
+    var supportedLanguages = {
+      "en": "/",
+      "zh-cn": "/zh-cn/"
+    };
+
+    // 获取当前路径
+    var currentPath = window.location.pathname;
+
+    // 检查路径是否已经是正确的语言路径
+    var isLangSet = Object.values(supportedLanguages).some(function(langPath) {
+      return currentPath.startsWith(langPath);
+    });
+
+    if (!isLangSet) {
+      // 根据用户语言重定向
+      var langToRedirect = supportedLanguages[userLang] || supportedLanguages["en"];
+      window.location.href = langToRedirect + currentPath;
+    }
+  })();
+</script>

@@ -3,34 +3,35 @@ linkTitle: "Documentation"
 title: Introduction
 ---
 
-👋 你好！欢迎来到 墨菲纳米 文档！
+👋 Hello! Welcome to the JimmyRespawn documentation!
 
 <!--more-->
 
-## 什么是 墨菲纳米？
+## What is JimmyRespawn?
 
-墨菲纳米是一家软件开发商与发行商，致力于为 Windows 和 Xbox 平台提供高质量的原生应用程序，利用微软的最新技术提升用户体验。
+JimmyRespawn is a software publisher dedicated to delivering high-quality native apps.
+for the Windows and Xbox platforms, leveraging the latest Microsoft technologies to enhance user experiences.
 
-## 功能特色
+## Features
 
-- **精美设计** - 受到 Fluent 设计指南的启发，提供现代化的设计，使应用外观出众。
-- **响应式布局与黑暗模式** - 无论是在 Xbox、平板电脑还是桌面设备上，都能展现出色的视觉效果。同时支持夜间模式，以适应不同的光照环境。
-- **快速轻便** - 由 UWP 驱动，这是一种基于 .Net native 构建的超快速软件基础架构，应用保持其占用空间最小化。使用时无需额外的 EXE 安装。
-- **多语言支持** - 发行的应用都支持多语种。
+- **Beautiful Design** - Inspired by Fluent guideline to offer a modern design that makes app look outstanding.
+- **Responsive Layout and Dark Mode** - It looks great on all devices, from Xbox, tablet to desktop. Dark mode is also supported to accommodate various lighting conditions.
+- **Fast and Lightweight** - Powered by UWP, a lightning-fast software infrastructure built with .Net native, JimmyRespawn keeps its footprint minimal. No extra EXE installation are needed to use it.
+- **Multi-language** - Multi-language apps made easy with JimmyRespawn's multilingual mode.
 
-## 有问题或反馈？
+## Questions or Feedback?
 
 {{< callout emoji="❓" >}}
-  JimmyRespawn 的应用仍在积极开发中。
-  有问题或反馈？请随时 [提交问题](https://github.com/jimmyrespawn/IPTV-Fluent/issues)！
+  JimmyRespawn's apps are still in active development.
+  Have a question or feedback? Feel free to [open an issue](https://github.com/jimmyrespawn/IPTV-Fluent/issues)!
 {{< /callout >}}
 
-## 下一步
+## Next
 
-立即进入以下部分开始：
+Dive right into the following section to get started:
 
 {{< cards >}}
-  {{< card link="https://apps.microsoft.com/search/publisher?name=JimmyRespawn&hl=zh-CN&gl=CN" title="入门指南" icon="document-text" subtitle="了解如何使用商店下载应用" >}}
+  {{< card link="https://apps.microsoft.com/search/publisher?name=JimmyRespawn&hl=en-US&gl=US" title="Getting Started" icon="document-text" subtitle="Learn how to download apps using Store" >}}
 {{< /cards >}}
 
 [MSFT store]: https://apps.microsoft.com/search/publisher?name=JimmyRespawn&hl=en-US&gl=US

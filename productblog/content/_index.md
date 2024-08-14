@@ -32,7 +32,7 @@ layout: hextra-home
     title="IPTV Fluent"
     subtitle="A modern media player that allows users to play thier content like Live TV, VOD, Series."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/hextra-doc.webp"
+    image="images/IPTV.showcase.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -40,7 +40,7 @@ layout: hextra-home
     title="Download Manager Kit"
     subtitle="Set to be a light weight http/https/ftp protocols internet download manager app."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/hextra-markdown.webp"
+    image="images/dmk.showcase.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -48,7 +48,7 @@ layout: hextra-home
     title="Podcasted"
     subtitle="A Windows 11/Xbox podcast app."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/hextra-search.webp"
+    image="images/podcasted.showcase.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
