@@ -1,5 +1,5 @@
 ---
-title: "Configurations"
+title: "应用设置"
 weight: 2
 prev: /docs/download-manager/get-started
 next: /docs/download-manager/dmkpro

@@ -14,11 +14,11 @@ next: /docs/download-manager/get-started
 <!--more-->
 
 {{< cards >}}
-  {{< card link="get-started.zh-cn" title="新手入门" icon="template" >}}
-  {{< card link="configurations.zh-cn" title="应用设置" icon="adjustments" >}}
-  {{< card link="dmkpro.zh-cn" title="高级版功能" icon="sparkles" >}}
-  {{< card link="updatelog.zh-cn" title="更新日志" icon="sparkles" >}}
+  {{< card link="get-started" title="新手入门" icon="template" >}}
+  {{< card link="configurations" title="应用设置" icon="adjustments" >}}
+  {{< card link="dmkpro" title="高级版功能" icon="sparkles" >}}
+  {{< card link="updatelog" title="更新日志" icon="sparkles" >}}
 {{< /cards >}}
 
-### Download Link
+### 下载链接
 [![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9mx6kd8wgwgp?ocid=pdpshare)

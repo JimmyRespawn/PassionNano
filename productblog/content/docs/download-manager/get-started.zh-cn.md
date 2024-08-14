@@ -1,5 +1,5 @@
 ---
-title: "Get Started"
+title: "新手入门"
 weight: 1
 prev: /docs/download-manager/
 next: /docs/download-manager/configrations
