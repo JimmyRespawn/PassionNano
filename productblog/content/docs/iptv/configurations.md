@@ -1,7 +1,7 @@
 ---
 title: "Configurations"
 weight: 2
-prev: /docs/get-started
+prev: /docs/iptv/get-started
 next: /docs/iptv/iptvplus
 ---
 
