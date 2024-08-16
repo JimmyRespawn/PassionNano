@@ -36,4 +36,4 @@ M3U 是一种常用于存储 IPTV 频道列表的播放列表文件格式。
 ## 阅读更多
 
 - [Github 上的 IPTV m3u 列表示例](https://github.com/search?q=iptv+list&type=repositories)
-- [维基百科上的 IPTV 历史](https://en.wikipedia.org/wiki/Internet_Protocol_television)
+- [维基百科上的 IPTV 历史](https://zh.wikipedia.org/wiki/IPTV)

@@ -92,4 +92,4 @@ next: /docs/iptv/iptvplus
 
 ## 阅读更多
 
-- [维基百科：电子节目指南](https://en.wikipedia.org/wiki/Electronic_program_guide)
+- [维基百科：电子节目指南](https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E8%8A%82%E7%9B%AE%E6%8C%87%E5%8D%97)

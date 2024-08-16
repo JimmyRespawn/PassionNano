@@ -17,5 +17,8 @@ IPTV Fluent uses your internet connection to download and update the content. <s
 
 ## Usage Telemetry
 
-We use Visual Studio Application Insights to keep track of app usage, find
- bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.
+We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.
+
+ ## User Guide
+
+We offer a complete usage guidance . [Click here to check it out.](/docs/iptv/)

@@ -1,6 +1,6 @@
 ---
 title: Migrating from Tumblr to Hugo
-date: 2024-01-01
+date: 2024-08-12
 authors:
   - name: imfing
     link: https://github.com/imfing
