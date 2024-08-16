@@ -19,4 +19,9 @@ This section covers tutorial how to use IPTV Fluent.
 {{< /cards >}}
 
 ### Download Link
+
 [![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
+
+### Terms of Service
+
+IPTV Fluent does not host or distribute any content or re-direct you to any reseller. Please find m3u8 or m3u link provided by other legal IPTV providers.

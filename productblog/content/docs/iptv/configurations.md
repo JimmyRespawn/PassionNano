@@ -13,7 +13,7 @@ Though IPTV Fluent is ready to play streaming as long as you have personal IPTV 
 To adjust settings in IPTV Fluent, simply click `Settings` button on the left menu.
 
 {{< filetree/container >}}
-  {{< filetree/folder name="IPTV Plus" state="open">}}
+  {{< filetree/folder name="IPTV Fluent" state="open">}}
       {{< filetree/file name="Live TV" >}}
       {{< filetree/file name="Channels" >}}
       {{< filetree/file name="Library" >}}
@@ -67,7 +67,7 @@ Custom epg required a external xml link which may be provided by your IPTV Provi
 ![image](https://od.lk/s/200612577_CWt9Q/epg2.png)
 It will display upcoming programmes after url has been setted.
 
-### Electronic programme guide
+### Auto sleep
 ![image](https://od.lk/s/200612991_jD6Gx/autosleep.png)
 App supports auto shut down after certain amount time.
 

@@ -17,9 +17,8 @@ To follow the app development updates, we will soon open a Telegram announcement
 Apps cannot be built without the following tools and inspirations:
 
 - [Json.NET](https://www.newtonsoft.com/json)
-- [WinUI 2.8](https://learn.microsoft.com/en-us/windows/apps/winui/winui2/)
+- [WinUI 2](https://learn.microsoft.com/en-us/windows/apps/winui/winui2/)
 - [Windows Community Toolkit](https://aka.ms/wct)
 - [LibVLCSharp](https://code.videolan.org/videolan/LibVLCSharp)
 - [FFmpeg](https://ffmpeg.org/)
 - [Html2Markdown](https://github.com/mysticmind/reversemarkdown-net)
-- [Hugo](https://gohugo.io/)
