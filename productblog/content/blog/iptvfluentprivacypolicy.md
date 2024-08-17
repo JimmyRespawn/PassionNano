@@ -1,6 +1,6 @@
 ---
 title: IPTV Fluent’s Privacy Policy
-date: 2018-05-21
+date: 2021-11-21
 authors:
   - name: JimmyRespawn
     link: https://github.com/JimmyRespawn

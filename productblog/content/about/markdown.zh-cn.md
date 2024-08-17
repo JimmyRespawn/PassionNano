@@ -11,61 +11,74 @@ excludeSearch: true
 
 <!--more-->
 
-## 基础语法
+## Basic Syntax
 
-### 标题
+### Headings
 
 ```
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 ```
 
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+### Emphasis
 
 ```text
-*这段文字将是斜体*
-_这也将是斜体_
+*This text will be italic*
+_This will also be italic_
 
-**这段文字将是粗体**
-__这也将是粗体__
+**This text will be bold**
+__This will also be bold__
 
-_你 **可以** 组合它们_
+_You **can** combine them_
 ```
 
-*这段文字将是斜体*
-_这也将是斜体_
+*This text will be italic*
 
-**这段文字将是粗体**
-__这也将是粗体__
+_This will also be italic_
 
-_你 **可以** 组合它们_
+**This text will be bold**
 
-### 列表
+__This will also be bold__
 
-#### 无序列表
+_You **can** combine them_
 
-* 项目 1
-* 项目 2
-  * 项目 2a
-  * 项目 2b
+### Lists
 
-#### 有序列表
+#### Unordered
 
-1. 项目 1
-2. 项目 2
-3. 项目 3
-   1. 项目 3a
-   2. 项目 3b
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
 
-### 图片
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+#### Ordered
+
+```
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+```
+
+### Images
 
 ```markdown
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
@@ -73,7 +86,7 @@ _你 **可以** 组合它们_
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-### 链接
+### Links
 
 ```markdown
 [Hugo](https://gohugo.io)
@@ -81,27 +94,27 @@ _你 **可以** 组合它们_
 
 [Hugo](https://gohugo.io)
 
-### 块引用
+### Blockquotes
 
 ```markdown
-牛顿曾说：
+As Newton said:
 
-> 如果我看得更远，那是因为我站在巨人的肩膀上。
+> If I have seen further it is by standing on the shoulders of Giants.
 ```
 
-> 如果我看得更远，那是因为我站在巨人的肩膀上。
+> If I have seen further it is by standing on the shoulders of Giants.
 
-### 行内代码
+### Inline Code
 
 ```markdown
-行内 `代码` 有 `反引号` 包围。
+Inline `code` has `back-ticks around` it.
 ```
 
-行内 `代码` 有 `反引号` 包围。
+Inline `code` has `back-ticks around` it.
 
-### 代码块
+### Code Blocks
 
-#### 语法高亮
+#### Syntax Highlighting
 
 ````markdown
 ```go
@@ -117,7 +130,7 @@ func main() {
 }
 ```
 
-### 表格
+### Tables
 
 ```markdown
 | Syntax    | Description |
@@ -131,7 +144,7 @@ func main() {
 | Header    | Title       |
 | Paragraph | Text        |
 
-## 参考
+## References
 
 - [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Hugo Markdown](https://gohugo.io/content-management/formats/#markdown)
