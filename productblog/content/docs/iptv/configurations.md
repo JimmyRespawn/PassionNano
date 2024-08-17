@@ -40,7 +40,7 @@ If your OS does not have the language pack, the app language won't take effect a
 ## Playlist sync
 ![image](https://od.lk/s/200608026_n1oNA/sync.png)
 
-Online playlist and favorite list added by users can be synced between devices like Xbox, desktop and tablet via OneDrive.
+Online playlist and favorite list added by users can be synced between devices like desktop and tablet via OneDrive.
 
 You have to manually click upload and download between devices. Auto sync is under development.
 

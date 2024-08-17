@@ -23,7 +23,7 @@ for the Windows and Xbox platforms, leveraging the latest Microsoft technologies
 
 {{< callout emoji="❓" >}}
   JimmyRespawn's apps are still in active development.
-  Have a question or feedback? Feel free to [open an issue](https://github.com/jimmyrespawn/IPTV-Fluent/issues)!
+  Have a question or feedback? Feel free to [open an issue](https://github.com/JimmyRespawn/jimmyrespawnapp.github.io/issues)!
 {{< /callout >}}
 
 ## Next

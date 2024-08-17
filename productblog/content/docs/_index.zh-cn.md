@@ -21,7 +21,7 @@ JimmyRespawn 是一家软件发行商，致力于为 Windows 和 Xbox 平台提�
 
 {{< callout emoji="❓" >}}
   JimmyRespawn 的应用仍在积极开发中。
-  有问题或反馈？请随时 [提交问题](https://github.com/jimmyrespawn/IPTV-Fluent/issues)！
+  有问题或反馈？请随时 [提交问题](https://github.com/JimmyRespawn/jimmyrespawnapp.github.io/issues)！
 {{< /callout >}}
 
 ## 下一步
