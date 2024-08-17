@@ -51,7 +51,8 @@ Release date: 2024/7/29
 ## v1.0.16
 
 Release date: 2024/7/26
-- Feature: Add extream codes parser
+
+- Feature: Add Xtream Codes parser
 - Feature: Add txt file parse
 - Feature: Change default list/grid
 - Bug fixes: Blade bar ui fix
@@ -61,6 +62,7 @@ Release date: 2024/7/26
 ## v1.0.15
 
 Release date: 2024/7/22
+
 - Feature: Stand alone EPG page
 - Feature: New video info in blade bar
 - Feature: Change stream video track
@@ -73,6 +75,7 @@ Release date: 2024/7/22
 ## v1.0.14
 
 Release date: 2024/7/17
+
 - Feature: New 'LIVE' icon in video page
 - Feature: New blade right bar in video page
 - Feature: Redeigned EPG list UI in video page
@@ -85,4 +88,5 @@ Release date: 2024/7/17
 - Bug fixes: Switch to online list when refreshes in channels page
 
 ## v1.0.11
+
 - Bug fixes: App crashes after switching the channel
