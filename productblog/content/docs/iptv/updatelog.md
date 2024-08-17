@@ -5,12 +5,15 @@ linkTitle: Update Log
 prev: /docs/iptv/iptvplus
 ---
 
+IPTV Fluent is constantly receiving updates and in active development right now.
+
 ## v1.0.21
 
-Release date: TBD
+Release date: TBD Expected on 2024/8/19
 
 - Feature: Remote support(Kiosk mode)
 - Feature: Add custom auto sleep time in settings
+- Feature: Add reorder channel in favorite and local list
 
 ## v1.0.20
 

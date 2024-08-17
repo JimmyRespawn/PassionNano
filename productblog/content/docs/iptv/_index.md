@@ -18,12 +18,12 @@ This section covers tutorial how to use IPTV Fluent.
   {{< card link="updatelog" title="Update log" icon="sparkles" >}}
 {{< /cards >}}
 
-## How to use?
+### How to use?
 
 Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
 ![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
 
-## Where can I find m3u link?
+### Where can I find m3u link?
 
 Type 'iptv' into github search section.
 Or type 'm3u links' on any search engine.
