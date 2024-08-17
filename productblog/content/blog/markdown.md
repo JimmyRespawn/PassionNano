@@ -2,12 +2,12 @@
 title: Migrating from Tumblr to Hugo
 date: 2024-08-12
 authors:
-  - name: imfing
-    link: https://github.com/imfing
-    image: https://github.com/imfing.png
-  - name: Octocat
-    link: https://github.com/octocat
-    image: https://github.com/octocat.png
+  - name: JimmyRespawn
+    link: https://github.com/JimmyRespawn
+    image: https://github.com/JimmyRespawn.png
+  # - name: Octocat
+  #   link: https://github.com/octocat
+  #   image: https://github.com/octocat.png
 tags:
   - Blog
   - Hugo
