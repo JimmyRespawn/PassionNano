@@ -6,25 +6,35 @@ prev: /docs/iptv/iptvplus
 ---
 
 ## v1.0.21
+
 Release date: TBD
+
 - Feature: Remote support(Kiosk mode)
+- Feature: Add custom auto sleep time in settings
 
 ## v1.0.20
+
 Release date: 2024/8/9
+
 - Feature: More language support
 
 ## v1.0.19
+
 Release date: 2024/8/2
+
 - Bug fixes: Fix unable to switch channel under VLC player engine
 
 ## v1.0.18
+
 Release date: 2024/8/2
+
 - Feature: Cache online list
 - Feature: New language support
 
 ## v1.0.17
 
 Release date: 2024/7/29
+
 - Feature: Add FFmpeg as video engine
 - Feature: Background audio play using native engine on Xbox
 - Bug fixes: Fix some video playback issue using native engine
@@ -42,7 +52,7 @@ Release date: 2024/7/26
 
 ## v1.0.15
 
-Release date: 7/22
+Release date: 2024/7/22
 - Feature: Stand alone EPG page
 - Feature: New video info in blade bar
 - Feature: Change stream video track
@@ -54,7 +64,7 @@ Release date: 7/22
 
 ## v1.0.14
 
-Release date: 7/17
+Release date: 2024/7/17
 - Feature: New 'LIVE' icon in video page
 - Feature: New blade right bar in video page
 - Feature: Redeigned EPG list UI in video page

@@ -18,10 +18,20 @@ This section covers tutorial how to use IPTV Fluent.
   {{< card link="updatelog" title="Update log" icon="sparkles" >}}
 {{< /cards >}}
 
-### Download Link
+## How to use?
 
-[![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
+Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
+![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
+
+## Where can I find m3u link?
+
+Type 'iptv' into github search section.
+Or type 'm3u links' on any search engine.
 
 ### Terms of Service
 
 IPTV Fluent does not host or distribute any content or re-direct you to any reseller. Please find m3u8 or m3u link provided by other legal IPTV providers.
+
+### Download Link
+
+[![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
