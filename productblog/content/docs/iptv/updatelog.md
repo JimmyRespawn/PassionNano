@@ -17,6 +17,7 @@ Release date: TBD
 
 Release date: TBD Expected on 2024/8/19
 
+- Feature: Add stalker portal (beta) online list support
 - Feature: Add custom auto sleep time in settings
 - Feature: Add reorder channel in favorite and local list
 
