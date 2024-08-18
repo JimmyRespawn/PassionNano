@@ -15,11 +15,12 @@ Release date: TBD
 
 ## v1.0.21
 
-Release date: TBD Expected on 2024/8/19
+Release date: 2024/8/19
 
-- Feature: Add stalker portal (beta) online list support
+- Feature: Add `Stalker Portal` (beta) online list support
 - Feature: Add custom auto sleep time in settings
 - Feature: Add reorder channel in favorite and local list
+- Bug fixes: Fix some navigation loop
 
 ## v1.0.20
 
