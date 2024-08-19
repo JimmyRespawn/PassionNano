@@ -13,12 +13,12 @@ Projects powered by JimmyRespawn
 
 {{< cards >}}
 
-  {{< card
+  <!-- {{< card
         link="https://apps.microsoft.com/detail/9P6V0D62D4BQ?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
         title="Musicloud"
         image="https://store-images.s-microsoft.com/image/apps.25507.14616980212163637.ebf72deb-9417-44d8-af5d-6f8f50b117db.08ef2829-41f6-4fe8-9bec-4d58c821833b"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
+  >}} -->
 
   {{< card
         link="https://apps.microsoft.com/detail/9WZDNCRDXTM1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
