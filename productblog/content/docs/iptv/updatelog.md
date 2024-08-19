@@ -11,7 +11,7 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
-- Feature: Remote support(Kiosk mode)
+- Feature: Remote support(Kiosk mode) -->
 
 ## v1.0.21
 
@@ -20,7 +20,7 @@ Release date: 2024/8/19
 - Feature: Add `Stalker Portal` (beta) online list support
 - Feature: Add custom auto sleep time in settings
 - Feature: Add reorder channel in favorite and local list
-- Bug fixes: Fix some navigation loop -->
+- Bug fixes: Fix some navigation loop
 
 ## v1.0.20
 
