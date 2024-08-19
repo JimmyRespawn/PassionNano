@@ -46,7 +46,7 @@ Release date: 2024/8/2
 Release date: 2024/7/29
 
 - Feature: Add FFmpeg as video engine
-- Feature: Background audio play using native engine on Xbox
+- Feature: Add Background audio play using native engine
 - Bug fixes: Fix some video playback issue using native engine
 - Bug fixes: UI fixes under small window
 
