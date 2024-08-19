@@ -7,6 +7,8 @@ prev: /docs/download-manager/dmkpro
 
 ## v1.5.45
 
+更新日期：2024/08/05
+
 - 提供更多语言。
 
 ## v1.5.44
