@@ -48,7 +48,7 @@ layout: hextra-home
     title="播客"
     subtitle="一个原生的 Windows 11/Xbox 播客应用."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="https://od.lk/s/202490635_pN3XU/dmk.showcase.zh-cn.webp"
+    image="https://od.lk/s/202490636_vF2nE/podcasted.showcase.zh-cn.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
