@@ -5,6 +5,8 @@ prev: /docs/
 next: /docs/iptv/get-started
 ---
 
+## Introduction
+
 IPTV Fluent is a powerful software solution designed for seamless IPTV streaming and management.
 
 This section covers tutorial how to use IPTV Fluent.
@@ -35,3 +37,29 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 ### Download Link
 
 [![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
+
+## Q&A Trouble shoot
+
+### Instant crash after loading channels
+
+Please install the graphic driver on the device. The app uses software decoder to play video.
+
+### Video glitch during streaming
+
+Switch playback engine in `Settings`.
+
+### Unable to streaming video in background
+
+Ditto. Switch to ``system` playback engine in `Settings`.
+
+### Random crash while switching between channels
+
+Ditto again. `VLC` might crash if there is bad connection during the channel switch.
+
+### Unable to parse the channel list
+
+There are two circumstances:
+
+- 1. The m3u/8 list does not follow the guideline. There is nothing we can do about this.
+
+- 2. Our parsing logic is unable to parse the list. Please send the list to us via mail if it's convenient for you.
