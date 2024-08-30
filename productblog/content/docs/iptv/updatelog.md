@@ -7,11 +7,14 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-<!-- ## v1.0.22
+## v1.0.22
 
-Release date: TBD
+Release date: 2024/8/30
 
-- Feature: Remote support(Kiosk mode) -->
+- Feature: Export multi-selected channels to m3u list locally
+- Feature: Edit channel in local list
+- Adjustment: Better experience when add a channel to local list
+- Adjustment: Minor UI adjustment in EPG page
 
 ## v1.0.21
 
