@@ -7,6 +7,13 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
+## v1.0.23
+
+Release date: 2024/9/10
+
+- Feature: Support channels which requires user-agent or referrer
+- Bug fixes: Improve channel list parse
+
 ## v1.0.22
 
 Release date: 2024/8/30
