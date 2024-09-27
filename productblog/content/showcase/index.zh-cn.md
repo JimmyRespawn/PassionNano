@@ -21,9 +21,9 @@ layout: wide
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9WZDNCRDXTF1?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
-        title="字数统计"
-        image="https://store-images.s-microsoft.com/image/apps.50920.9007199266695244.4bfe8589-4bd5-4057-9fa8-a32946842721.56ff0991-5a82-4dc6-9f44-f93a8961029e?h=720"
+        link="https://apps.microsoft.com/detail/9nl2q935957m?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
+        title="Tesla for Windows"
+        image="https://store-images.s-microsoft.com/image/apps.33965.13720213672579974.f83625e4-92d9-41e4-b668-ec444c5e160a.239cec69-d6d6-4ccc-a231-c64a072acc7a?h=720"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 

@@ -28,9 +28,9 @@ Projects powered by JimmyRespawn
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9WZDNCRDXTF1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
-        title="Letter Counter"
-        image="https://store-images.s-microsoft.com/image/apps.50920.9007199266695244.4bfe8589-4bd5-4057-9fa8-a32946842721.56ff0991-5a82-4dc6-9f44-f93a8961029e?h=720"
+        link="https://apps.microsoft.com/detail/9ncf5gmw8q1q?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
+        title="Movier"
+        image="https://store-images.s-microsoft.com/image/apps.32307.13564961981097979.c7a16cce-d7bc-419a-a05b-cc7c10e2a5c0.ed9c7387-0f79-430a-bad8-217035044957?h=720"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
