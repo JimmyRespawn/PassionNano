@@ -1,6 +1,6 @@
 ---
 title: Link for Tesla’s Privacy Policy
-date: 2024-09-16
+date: 2024-09-26
 authors:
   - name: JimmyRespawn
     link: https://github.com/JimmyRespawn
