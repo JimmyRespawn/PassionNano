@@ -5,6 +5,12 @@ linkTitle: Update log
 prev: /docs/download-manager/dmkpro
 ---
 
+## v1.5.47
+
+Date：2024/09/30
+
+- Bug fixes: Fix videos download
+
 ## v1.5.46
 
 Date：2024/09/06

@@ -5,6 +5,12 @@ linkTitle: 更新日志
 prev: /docs/iptv/iptvplus
 ---
 
+## v1.0.24
+
+发布日期: TBD
+
+- 修复: 升级 VLC 引擎，减少崩溃
+
 ## v1.0.23
 
 发布日期: 2024/9/10
