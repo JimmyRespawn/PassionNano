@@ -21,4 +21,5 @@ Next, I will introduce how to use this application.
 {{< /cards >}}
 
 ### Download link
+
 [![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9mx6kd8wgwgp?ocid=pdpshare)

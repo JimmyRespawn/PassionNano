@@ -19,4 +19,4 @@ next: /docs/podcasted/get-started
 {{< /cards >}}
 
 ### 下载链接
-[![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9NXWGR2B1P26?ocid=officialwebsite)
+[![image](https://od.lk/s/209911743_DGBCl/MicrosoftStoreDownload.PNG#left)](https://www.microsoft.com/store/productId/9NXWGR2B1P26?ocid=officialwebsite)

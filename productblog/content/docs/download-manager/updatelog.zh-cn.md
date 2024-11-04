@@ -5,7 +5,7 @@ linkTitle: 更新日志
 prev: /docs/download-manager/dmkpro
 ---
 
-## v1.5.46
+## v1.5.47
 
 更新日期：2024/09/30
 

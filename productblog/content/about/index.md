@@ -5,7 +5,7 @@ toc: false
 
 Our vision is to build the best native app experience on the Windows and Xbox platforms by adopting the latest technology provided by Microsoft.
 
-Support the projects by 
+Support the projects by
 
 - Sharing the apps with the community
 - Purchasing the Pro version

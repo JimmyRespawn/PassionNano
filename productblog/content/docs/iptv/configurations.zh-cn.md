@@ -21,8 +21,8 @@ next: /docs/iptv/iptvplus
 {{< /filetree/folder >}}
 {{< /filetree/container >}}
 
-
 ## 常规设置
+
 ### 启动菜单
 
 ![image](https://od.lk/s/200607426_u0Sx5/launchmenu.png)
@@ -30,6 +30,7 @@ next: /docs/iptv/iptvplus
 有`直播`、`频道` 和 `播放单`。启动应用后，它将立即打开您选择的选项。
 
 ### 应用语言
+
 ![image](https://od.lk/s/200607851_yegn7/language.png)
 应用中提供了 20 种语言选项。
 
@@ -38,6 +39,7 @@ next: /docs/iptv/iptvplus
 如果您的操作系统没有相应的语言包，改变后的应用语言将不会生效。
 
 ## 播放列表同步
+
 ![image](https://od.lk/s/200608026_n1oNA/sync.png)
 
 用户添加的在线播放列表和收藏列表可以通过 OneDrive 在桌面和平板电脑等设备之间同步。
@@ -59,6 +61,7 @@ next: /docs/iptv/iptvplus
 3: FFMpeg 对流媒体的支持更好，但会消耗更多的 RAM 内存。
 
 ### 电子节目指南
+
 ![image](https://od.lk/s/200611282_LCp8I/EPG.png)
 
 自定义 EPG 需要一个外部的 xml 链接，该链接可能由您的 IPTV 提供商提供，或者您可以在网上搜索。
@@ -67,10 +70,12 @@ next: /docs/iptv/iptvplus
 设置 URL 后，它将显示即将播放的节目。
 
 ### 自动关闭
+
 ![image](https://od.lk/s/200612991_jD6Gx/autosleep.png)
 应用支持在一定时间后自动关闭。
 
 ## 列表设置
+
 ### 默认列表视图
 
 在频道列表中，默认显示为单行列表。
@@ -88,7 +93,6 @@ next: /docs/iptv/iptvplus
 ### 更新频率
 
 选择 `每天` 选项可以每日缓存在线列表，而无需每次加载列表。
-
 
 ## 阅读更多
 

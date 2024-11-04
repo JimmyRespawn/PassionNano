@@ -22,7 +22,7 @@ IPTV Fluent and Plus are constantly receiving new features and bug fixes during 
 
 ## Pricing
 
-IPTV Plus offer 2 options. `Lifetime` and `Subscription`. 
+IPTV Plus offer 2 options. `Lifetime` and `Subscription`.
 
 - For subscription it will cost $0.99(VAT excluded) for 10 devices license. Plus feature will be locked after subscription expired.
 - For lifetime it will cost $12(VAT excluded) for 10 devices license.

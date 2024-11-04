@@ -11,13 +11,13 @@ Please be patient if you are new to IPTV. IPTV Fluent does not provide in-box TV
 
 ## 1. What is an IPTV Player
 
-An IPTV Player is a software tool that allows users to stream television content over the internet. 
+An IPTV Player is a software tool that allows users to stream television content over the internet.
 
 It supports various formats for live channels and video-on-demand content, providing a flexible interface to browse and watch media from around the world.
 
 ## 2. What is M3U, and Where to Get It Legitimately
 
-M3U is a playlist file format commonly used to store IPTV channel lists. 
+M3U is a playlist file format commonly used to store IPTV channel lists.
 
 It contains URLs for streaming content and can be obtained from legitimate sources like licensed IPTV providers or broadcasters.
 
@@ -27,7 +27,7 @@ Always ensure you are using legally acquired M3U files to avoid copyright violat
 
 ![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
 
-To start using IPTV Fluent, simply enter the M3U URL in the search bar. 
+To start using IPTV Fluent, simply enter the M3U URL in the search bar.
 
 <!--{{< youtube w7Ft2ymGmfc >}}-->
 

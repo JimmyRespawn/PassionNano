@@ -50,7 +50,7 @@ Switch playback engine in `Settings`.
 
 ### Unable to streaming video in background
 
-Ditto. Switch to ``system` playback engine in `Settings`.
+Ditto. Switch to `System` playback engine in `Settings`.
 
 ### Random crash while switching between channels
 

@@ -19,7 +19,7 @@ IPTV Fluent 是一款强大的软件解决方案，旨在实现无缝的 IPTV �
 
 ### 下载链接
 
-[![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
+[![image](https://od.lk/s/209911743_DGBCl/MicrosoftStoreDownload.PNG#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
 
 ### 服务条款
 
