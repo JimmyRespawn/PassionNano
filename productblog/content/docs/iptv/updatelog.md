@@ -9,8 +9,10 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 ## v1.0.24
 
-Release date: TBD
+Release date: 2024/10/28
 
+- Feature: Pro user can play local videos
+- Feature: Pro user can play media servers videos
 - Bug fixes: Update VLC playback engine core to lower the crash
 
 ## v1.0.23
