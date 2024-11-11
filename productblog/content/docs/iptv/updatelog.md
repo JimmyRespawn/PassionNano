@@ -7,11 +7,17 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
+## v1.0.26
+
+Release date: TBD
+
+- Feature: Advanced m3u parser
+
 ## v1.0.25
 
 Release date: 2024/11/8
 
-- Feature: Change default online list in 'Settings'
+- Feature: Change default online list in `Settings`
 - Bug fixes: Show title on Live Tile under Win10  
 
 ## v1.0.24
