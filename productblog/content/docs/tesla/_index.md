@@ -22,4 +22,4 @@ This section covers tutorial how to use Link for Tesla.
 
 ### Download link
 
-[![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9nl2q935957m?ocid=pdpshare)
+[![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9nl2q935957m?ocid=pdpshare)

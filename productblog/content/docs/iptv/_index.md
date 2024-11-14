@@ -36,7 +36,7 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 
 ### Download Link
 
-[![image](https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
+[![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
 
 ## Q&A Trouble shoot
 

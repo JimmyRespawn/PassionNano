@@ -5,7 +5,7 @@ prev: /docs/
 next: /docs/podcasted/get-started
 ---
 
-播客(Podcasted)是在 Windows 和 Xbox 上的泛用性 Podcast 应用，用的 iTunes 的源。原生 Fluent 设计与 UWP 框架开发。
+播墨(Podcasted)是在 Windows 和 Xbox 上的泛用性 Podcast 应用，用的 iTunes 的源。原生 Fluent 设计与 UWP 框架开发。
 
 接下来会介绍如何使用这款应用。
 
@@ -19,4 +19,5 @@ next: /docs/podcasted/get-started
 {{< /cards >}}
 
 ### 下载链接
+
 [![image](https://od.lk/s/209911743_DGBCl/MicrosoftStoreDownload.PNG#left)](https://www.microsoft.com/store/productId/9NXWGR2B1P26?ocid=officialwebsite)

@@ -7,7 +7,7 @@ prev: /docs/download-manager/dmkpro
 
 ## v1.5.48
 
-Date：2024/11/15
+Date：tbd
 
 - Improvement: UI adjustment in Settings page
 

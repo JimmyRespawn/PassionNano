@@ -7,7 +7,7 @@ prev: /docs/download-manager/dmkpro
 
 ## v1.5.48
 
-更新日期：2024/11/15
+更新日期：tbd
 
 - 优化：设置界面优化
 
