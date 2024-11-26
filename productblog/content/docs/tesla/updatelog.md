@@ -5,7 +5,7 @@ linkTitle: Update log
 prev: /docs/teslaapp/teslapro
 ---
 
-## v0.9.2
+## v0.9.3
 
 Date: TBD
 
