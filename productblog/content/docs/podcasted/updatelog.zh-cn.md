@@ -7,8 +7,6 @@ prev: /docs/podcasted/podcastedpro
 
 ## v1.5.34
 
-更新时间：TBD
-
 - 功能：支持以播客名存储下载文件夹
 - 优化：界面展示
 

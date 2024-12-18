@@ -5,12 +5,6 @@ linkTitle: 更新日志
 prev: /docs/download-manager/dmkpro
 ---
 
-## v1.5.48
-
-更新日期：tbd
-
-- 优化：设置界面优化
-
 ## v1.5.47
 
 更新日期：2024/09/30

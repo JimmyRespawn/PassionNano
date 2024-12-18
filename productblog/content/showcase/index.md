@@ -41,9 +41,9 @@ Projects powered by JimmyRespawn
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9NVBS1GM8ND7?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
-        title="TGFC"
-        image="https://store-images.s-microsoft.com/image/apps.64081.14401920927070280.237771d0-1596-4057-b5fc-dc3783bf00fb.81d98696-d7e1-4834-bda6-fd7180f22ce4?h=720"
+        link="https://apps.microsoft.com/detail/9wzdncrdxtf1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
+        title="Jimmy Toolbox"
+        image="https://store-images.s-microsoft.com/image/apps.61942.9007199266695244.fdced81e-d637-4bd9-bd3c-6a341f588585.b1e69ae4-a518-4a36-b0d7-4712d79427cc?h=720"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
