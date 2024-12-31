@@ -5,6 +5,12 @@ linkTitle: Update log
 prev: /docs/download-manager/dmkpro
 ---
 
+## v1.5.48
+
+Date：TBD
+
+- Improvement: UI adjustment in settings
+
 ## v1.5.47
 
 Date：2024/09/30

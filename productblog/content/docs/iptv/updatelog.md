@@ -11,7 +11,13 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
-- Feature: Advanced m3u parser
+- Feature: VLC add custom speed options
+- Feature: Pin channel or list to start menu for quick launching
+- Improvement: Add title tooltip for the blade channel menu
+- Improvement: Some UE adjustment
+- Bug fixes: Fix some mis-translation in Italian special thanks to Alessandro
+- Bug fixes: Fix blank genre which might cause crash
+- Bug fixes: Fix unable to purchase life-time plus if the app is under subscription
 
 ## v1.0.25
 

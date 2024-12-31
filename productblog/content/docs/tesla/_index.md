@@ -7,6 +7,8 @@ next: /docs/teslaapp/get-started
 
 ## Introduction
 
+Announcement: Due to the charge of Tesla API, this project will be discontinued.
+
 Link for Tesla provides up-to-date insights into your Tesla vehicle's status, all in one place.
 
 This section covers tutorial how to use Link for Tesla.
