@@ -10,7 +10,7 @@ tags:
   - private
 excludeSearch: true
 hidden: true
-url: "/privacy?app=jimmy%20toolbox"
+url: "/private/jimmytoolbox"
 ---
 
 Jimmy Toolbox uses your internet connection to download and update the content. <small>It </small>does not collect, use any personal information, store any personal data &amp; share it to third party.

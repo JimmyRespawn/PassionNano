@@ -5,6 +5,18 @@ linkTitle: 更新日志
 prev: /docs/iptv/iptvplus
 ---
 
+## v1.0.26
+
+发布日期: 待定
+
+- 功能: VLC add custom speed options
+- 功能: Pin channel or list to start menu for quick launching
+- 优化: Add title tooltip for the blade channel menu
+- 优化: Some UE adjustment
+- 修复: Fix some mis-translation in Italian special thanks to Alessandro
+- 修复: Fix blank genre which might cause crash
+- 修复: Fix unable to purchase life-time plus if the app is under subscription
+
 ## v1.0.25
 
 发布日期: 2024/11/8

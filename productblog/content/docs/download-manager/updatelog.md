@@ -7,7 +7,7 @@ prev: /docs/download-manager/dmkpro
 
 ## v1.5.48
 
-Date：2024/01/04
+Date：2024/01/03
 
 - Improvement: UI adjustment in settings
 
