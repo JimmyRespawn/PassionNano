@@ -12,6 +12,14 @@ excludeSearch: true
 hidden: true
 ---
 
+## Announcement
+
+Link for Tesla will be on hold since the charge of the API calling. You'll still be able to use basic version of Link for Tesla for free. The app will not be discoverable or updated until the charge has been lifted.
+
+Best regards.
+
+## Policy
+
 Link for Tesla uses your internet connection to download and update the content. It does not collect, use any personal information &amp; share it to third party.
 
 ## Usage Telemetry
