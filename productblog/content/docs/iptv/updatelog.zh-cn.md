@@ -7,7 +7,7 @@ prev: /docs/iptv/iptvplus
 
 ## v1.0.26
 
-发布日期: 待定
+发布日期: 2025/1/20
 
 - 功能: VLC add custom speed options
 - 功能: Pin channel or list to start menu for quick launching

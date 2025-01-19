@@ -9,7 +9,7 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 ## v1.0.26
 
-Release date: TBD
+Release date: 2025/1/20
 
 - Feature: VLC add custom speed options
 - Feature: Pin channel or list to start menu for quick launching
