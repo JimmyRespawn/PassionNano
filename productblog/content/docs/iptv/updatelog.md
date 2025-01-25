@@ -125,7 +125,3 @@ Release date: 2024/7/17
 - Feature: Reorder saved online list in library page
 - Feature: UI tweaks in Settings page
 - Bug fixes: Switch to online list when refreshes in channels page
-
-## v1.0.11
-
-- Bug fixes: App crashes after switching the channel

@@ -38,6 +38,8 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 
 [![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare)
 
+or use winget command `winget install 9PKMDLWBC8ZJ` in terminal -> Then enter `y`.
+
 ## Q&A Trouble shoot
 
 ### Instant crash after loading channels

@@ -52,10 +52,10 @@ layout: hextra-home
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
-  {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9wzdncrdxtf1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
-    title="Jimmy Toolbox"
+  {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9ncf5gmw8q1q?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
+    title="Movier"
     icon="cog"
-    subtitle="A versatile app designed to simplify your daily tasks with powerful and intuitive tool."
+    subtitle="Let you keep track of latest, popular, upcoming and top rated movies list."
   >}}
     {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9wzdncrd1p4n?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
     title="Game Calendar"
