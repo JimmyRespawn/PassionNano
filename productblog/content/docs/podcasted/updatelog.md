@@ -7,7 +7,7 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.36
 
-Date: 2024/1/7
+Date: 2025/1/7
 
 - Feature: Add menu position replace
 - Feature: Add refresh subs podcast image
