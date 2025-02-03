@@ -5,12 +5,16 @@ linkTitle: 更新日志
 prev: /docs/iptv/iptvplus
 ---
 
+## v1.0.27
+
+发布日期: 待定
+
 ## v1.0.26
 
 发布日期: 2025/1/20
 
-- 功能: VLC add custom speed options
-- 功能: Pin channel or list to start menu for quick launching
+- 功能: VLC 增加自定义调节速度选项
+- 功能: 把频道和列表钉到开始菜单
 - 优化: Add title tooltip for the blade channel menu
 - 优化: Some UE adjustment
 - 修复: Fix some mis-translation in Italian special thanks to Alessandro

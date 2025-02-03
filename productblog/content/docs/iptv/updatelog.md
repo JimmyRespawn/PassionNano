@@ -7,6 +7,14 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
+## v1.0.27
+
+Release date: TBD
+
+- Feature: VLC add custom video ratio option
+- Feature: VLC add subtitle delay option
+- Bug fixes: Certain EPG url unable to switch between pages
+
 ## v1.0.26
 
 Release date: 2025/1/20

@@ -35,12 +35,6 @@ Projects powered by JimmyRespawn
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9NJ2QF6M25F6?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
-        title="Stage1st"
-        image="https://store-images.s-microsoft.com/image/apps.40959.13618597470610855.fd09a011-a182-4aec-9760-2d50e6bdceee.fe2f0da1-85f8-440e-9b03-5d0ae50eeac2?h=720" imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
         link="https://apps.microsoft.com/detail/9wzdncrdxtf1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
         title="Jimmy Toolbox"
         image="https://store-images.s-microsoft.com/image/apps.61942.9007199266695244.fdced81e-d637-4bd9-bd3c-6a341f588585.b1e69ae4-a518-4a36-b0d7-4712d79427cc?h=720"

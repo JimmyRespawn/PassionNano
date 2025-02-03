@@ -21,15 +21,8 @@ layout: wide
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9nl2q935957m?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
-        title="Tesla for Windows"
-        image="https://store-images.s-microsoft.com/image/apps.33965.13720213672579974.f83625e4-92d9-41e4-b668-ec444c5e160a.239cec69-d6d6-4ccc-a231-c64a072acc7a?h=720"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
         link="https://apps.microsoft.com/detail/9NJ2QF6M25F6?hl=zh-CN&gl=CN&launch=true&mode=full&ocid=officialwebsite"
-        title="Stage1st"
+        title="Stage1st for UWP"
         image="https://store-images.s-microsoft.com/image/apps.40959.13618597470610855.fd09a011-a182-4aec-9760-2d50e6bdceee.fe2f0da1-85f8-440e-9b03-5d0ae50eeac2?h=720" imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
