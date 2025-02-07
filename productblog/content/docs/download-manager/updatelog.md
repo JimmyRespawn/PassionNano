@@ -13,19 +13,19 @@ Date：2025/2/3
 
 ## v1.5.48
 
-Date：2024/01/03
+Date：2024/1/3
 
 - Improvement: UI adjustment in settings
 
 ## v1.5.47
 
-Date：2024/09/30
+Date：2024/9/30
 
 - Bug fixes: Fix videos download
 
 ## v1.5.46
 
-Date：2024/09/06
+Date：2024/9/6
 
 - Feature: Add menu option
 - Feature: Add more info documentation

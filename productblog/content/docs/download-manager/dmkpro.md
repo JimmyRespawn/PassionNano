@@ -21,5 +21,5 @@ next: /docs/download-manager/updatelog
 
 ## Pricing
 
-- $4 USD or ¥28 RMB, depending on your Store region
+- $4 USD, currency will be changed depending on your Store region
 - License for 10 devices (can transfer licenses via Microsoft account)

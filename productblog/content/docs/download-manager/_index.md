@@ -22,6 +22,6 @@ Next, I will introduce how to use this application.
 
 ### Download link
 
-[![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9mx6kd8wgwgp?ocid=pdpshare)
+[![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9mx6kd8wgwgp?ocid=officialwebsite)
 
 or use winget command `winget install 9mx6kd8wgwgp` in terminal -> Then enter `y`.

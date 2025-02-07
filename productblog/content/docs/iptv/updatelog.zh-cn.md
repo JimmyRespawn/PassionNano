@@ -9,17 +9,22 @@ prev: /docs/iptv/iptvplus
 
 发布日期: 待定
 
+- 功能：VLC 增加自定义屏幕比例
+- 功能：VLC 增加字幕延时设置
+- 修复：部分 EPG 无法翻页的问题
+- 修复：最新版系统音频输出展示慢没提示的问题
+
 ## v1.0.26
 
 发布日期: 2025/1/20
 
 - 功能: VLC 增加自定义调节速度选项
 - 功能: 把频道和列表钉到开始菜单
-- 优化: Add title tooltip for the blade channel menu
-- 优化: Some UE adjustment
-- 修复: Fix some mis-translation in Italian special thanks to Alessandro
-- 修复: Fix blank genre which might cause crash
-- 修复: Fix unable to purchase life-time plus if the app is under subscription
+- 优化: 播放页右侧栏的频道过长时增加悬浮展示
+- 优化: 一些 UE 优化
+- 修复: 修复意大利语翻译
+- 修复: 修复空白分类导致的崩溃
+- 修复: 修复订阅后无法购买永久
 
 ## v1.0.25
 

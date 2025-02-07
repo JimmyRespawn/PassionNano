@@ -10,12 +10,13 @@ Support the projects by
 - Sharing the apps with the community
 - Purchasing the Pro version
 - Leaving 5-star ratings in the store
+- [Buy me a coffee](https://ko-fi.com/jimmyrespawn)
 
 To follow the app development updates, we will soon open a Telegram announcement channel.
 
 ## Credits
 
-Apps cannot be built without the following tools and inspirations:
+Apps can not be built without the following tools and inspirations:
 
 - [Json.NET](https://www.newtonsoft.com/json)
 - [WinUI 2](https://learn.microsoft.com/en-us/windows/apps/winui/winui2/)

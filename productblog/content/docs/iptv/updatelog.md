@@ -14,6 +14,7 @@ Release date: TBD
 - Feature: VLC add custom video ratio option
 - Feature: VLC add subtitle delay option
 - Bug fixes: Certain EPG url unable to switch between pages
+- Bug fixes: Loading indictor for changing audio ouput device
 
 ## v1.0.26
 
