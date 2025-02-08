@@ -14,7 +14,7 @@ prev: /docs/podcastedapp/podcastedpro
 - **Fix:** Gamepad navigation fix
 - **Fix:** Download episodes glitch
 - **Fix:** Unable to open few encrypted podcasts
-- **Fix:** some UI issues
+- **Fix:** Some UI issues
 
 ## v1.7.35  
 
