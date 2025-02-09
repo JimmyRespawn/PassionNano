@@ -68,4 +68,4 @@ There are two circumstances:
 
 ### Default system players does not load user agent required channel
 
-Currently only other two video engines support user agent required channel. Please change video playback engine in settings if you wish to play channels like this. 
+Currently only other two video engines support user agent required channel. Please change video playback engine in settings if you wish to play channels like this.

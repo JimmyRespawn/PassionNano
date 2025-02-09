@@ -56,9 +56,9 @@ Currently this feature is only available for IPTV Plus.
 
 Playback engine is the core player behind streaming. If you encounter any issue while playing some live stream, you may change the playback engine.
 
-1: VLC has better graphics and source playbility support. 
+1: VLC has better graphics and source playbility support.
 
-2: Native system player has better RAM memory usage management and stability management. 
+2: Native system player has better RAM memory usage management and stability management.
 
 3: FFMpeg has better stream support but consume more RAM memory usage.
 

@@ -11,6 +11,7 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
+- Pro Feature: VLC add OLED screen burn-in preventor
 - Feature: VLC add custom video ratio option
 - Feature: VLC add subtitle delay option
 - Bug fixes: Certain EPG url unable to switch between pages

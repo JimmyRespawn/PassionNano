@@ -17,6 +17,7 @@ next: /docs/download-manager/updatelog
 - Batch download with wildcards
 - Detect more file types
 - Customize search engines
+- (PC) Preview video media while downloading
 - More exclusive features in future updates
 
 ## Pricing

@@ -17,6 +17,7 @@ next: /docs/download-manager/updatelog
 - 通配符批量下载
 - 嗅探更多文件类型
 - 自定义搜索引擎
+- 下载时预览媒体视频
 - 更多未来独占功能
 
 ## 价格

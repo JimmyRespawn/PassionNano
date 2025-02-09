@@ -23,4 +23,4 @@ Apps can not be built without the following tools and inspirations:
 - [Windows Community Toolkit](https://aka.ms/wct)
 - [LibVLCSharp](https://code.videolan.org/videolan/LibVLCSharp)
 - [FFmpeg](https://ffmpeg.org/)
-- [Html2Markdown](https://github.com/baynezy/Html2Markdown)
+- [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net)

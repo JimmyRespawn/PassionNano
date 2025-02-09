@@ -11,7 +11,7 @@ next: /docs/podcasted/updatelog
 ## What Features Are Included?
 
 - Subscribe more than 5 podcasts
-- Remvoe advertisment
+- Remove advertisement
 - Support the developer and get more upcoming exclusive features
 
 ## Pricing
