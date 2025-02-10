@@ -14,8 +14,9 @@ Release date: TBD
 - Pro Feature: VLC add OLED screen burn-in preventor
 - Feature: VLC add custom video ratio option
 - Feature: VLC add subtitle delay option
+- Feature: VLC play audio from Bluetooth devices on your PC
 - Bug fixes: Certain EPG url unable to switch between pages
-- Bug fixes: Loading indictor for changing audio ouput device
+- Bug fixes: Loading indicator for changing audio ouput device
 
 ## v1.0.26
 
