@@ -7,14 +7,22 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.27
+## v1.0.28
 
 Release date: TBD
+
+- Feature: VLC play audio from Bluetooth devices on your PC
+
+## v1.0.27
+
+Release date: 2025/2/20
 
 - Pro Feature: VLC add OLED screen burn-in preventor
 - Feature: VLC add custom video ratio option
 - Feature: VLC add subtitle delay option
-- Feature: VLC play audio from Bluetooth devices on your PC
+- Improvement: Enhanced loved list management
+- Improvement: Love channel while playing
+- Improvement: Edit the online list
 - Bug fixes: Certain EPG url unable to switch between pages
 - Bug fixes: Loading indicator for changing audio ouput device
 

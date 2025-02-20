@@ -9,7 +9,7 @@ prev: /docs/download-manager/dmkpro
 
 Date：TBD
 
-- Improvement: Some UI adjustment in the bottom
+- Improvement: Some UI adjustment at the bottom
 
 ## v1.5.49
 

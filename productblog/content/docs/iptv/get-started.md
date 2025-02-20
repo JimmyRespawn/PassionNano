@@ -25,7 +25,7 @@ Always ensure you are using legally acquired M3U files to avoid copyright violat
 
 ## 3. How to Use M3U in IPTV Fluent
 
-![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
+![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/raw/main/doc/images/SearchSectionIPTVFluent.png?raw=true)
 
 To start using IPTV Fluent, simply enter the M3U URL in the search bar.
 
