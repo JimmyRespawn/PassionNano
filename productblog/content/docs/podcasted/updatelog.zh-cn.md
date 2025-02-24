@@ -5,6 +5,13 @@ linkTitle: 更新日志
 prev: /docs/podcasted/podcastedpro
 ---
 
+## v1.7.37
+
+发布日期：2025/2/22
+
+- 优化：新 Logo 图标
+- 优化：设置页面小调整
+
 ## v1.7.36
 
 发布日期：2025/1/7

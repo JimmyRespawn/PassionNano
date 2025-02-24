@@ -12,6 +12,7 @@ next: /docs/podcasted/updatelog
 
 - 永久删除广告
 - 支持订阅 5 个节目以上
+- 保存播放列表
 - 更多未来独占功能
 
 ## 价格

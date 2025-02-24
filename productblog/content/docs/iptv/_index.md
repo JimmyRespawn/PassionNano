@@ -36,7 +36,7 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 
 ### Download Link
 
-[![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=officialwebsite)
+[![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=officialwebsite)
 
 or use winget command `winget install 9PKMDLWBC8ZJ` in terminal -> Then enter `y`.
 

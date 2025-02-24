@@ -21,21 +21,21 @@ Projects powered by JimmyRespawn
   >}} -->
 
   {{< card
-        link="https://apps.microsoft.com/detail/9WZDNCRDXTM1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
+        link="https://apps.microsoft.com/detail/9WZDNCRDXTM1?hl=en-US&gl=US&launch=true&mode=full&cid=officialwebsite"
         title="Sticky Noter"
         image="https://store-images.s-microsoft.com/image/apps.22657.9007199266695352.1a234daf-9cc5-4785-850b-d7056a0555a3.aa80eefc-bfcd-4771-9933-20a9c90a31f1?h=720"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9ncf5gmw8q1q?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
+        link="https://apps.microsoft.com/detail/9ncf5gmw8q1q?hl=en-US&gl=US&launch=true&mode=full&cid=officialwebsite"
         title="Movier"
         image="https://store-images.s-microsoft.com/image/apps.32307.13564961981097979.c7a16cce-d7bc-419a-a05b-cc7c10e2a5c0.ed9c7387-0f79-430a-bad8-217035044957?h=720"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
   {{< card
-        link="https://apps.microsoft.com/detail/9wzdncrdxtf1?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite"
+        link="https://apps.microsoft.com/detail/9wzdncrdxtf1?hl=en-US&gl=US&launch=true&mode=full&cid=officialwebsite"
         title="Jimmy Toolbox"
         image="https://store-images.s-microsoft.com/image/apps.61942.9007199266695244.fdced81e-d637-4bd9-bd3c-6a341f588585.b1e69ae4-a518-4a36-b0d7-4712d79427cc?h=720"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"

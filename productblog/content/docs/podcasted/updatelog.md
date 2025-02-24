@@ -5,6 +5,14 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.37
+
+**Release Date:** 2025/2/22
+
+- **Feature:** Add episodes to the playlist
+- **Improvement:** Update new logo  
+- **Fix:** Some settings issues
+
 ## v1.7.36
 
 **Release Date:** 2025/1/7

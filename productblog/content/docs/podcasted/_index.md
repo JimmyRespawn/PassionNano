@@ -20,4 +20,4 @@ Podcasted is an immersive podcast app available on Windows Universal platforms. 
 
 ### Download link
 
-[![image](/images/storeBadge.webp)](https://apps.microsoft.com/detail/9nxwgr2b1p26?ocid=officialwebsite)
+[![image](/images/storeBadge.webp)](https://apps.microsoft.com/detail/9nxwgr2b1p26?cid=officialwebsite)
