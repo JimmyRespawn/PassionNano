@@ -5,6 +5,14 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.38
+
+**Release Date:** 2025/3/3
+
+- **Improvement:** Border color for playlists and the play panel  
+- **Improvement:** UI and UE adjustment for Xbox version
+- **Fix:** Menu re-expaned after switch pages
+
 ## v1.7.37
 
 **Release Date:** 2025/2/22

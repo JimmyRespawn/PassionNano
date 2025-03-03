@@ -13,6 +13,7 @@ next: /docs/podcasted/updatelog
 - Subscribe more than 5 podcasts
 - Remove advertisement
 - Save multiple playlists
+- Add episodes to custom playlist
 - Support the developer and get more upcoming exclusive features
 
 ## Pricing
