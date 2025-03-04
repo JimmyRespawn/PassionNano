@@ -5,6 +5,10 @@ linkTitle: 更新日志
 prev: /docs/download-manager/dmkpro
 ---
 
+## v1.5.50
+
+- 优化：底部 UI 优化
+
 ## v1.5.49
 
 更新日期：2025/2/3

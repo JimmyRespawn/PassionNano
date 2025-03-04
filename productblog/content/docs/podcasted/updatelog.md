@@ -47,12 +47,12 @@ prev: /docs/podcastedapp/podcastedpro
 - **Fix:** Fixed sidebar highlighting errors  
 - **Fix:** Resolved crash when episodes end at certain resolutions  
 
-## v1.5.34  
+## v1.7.34  
 
 - **Feature:** Added support for organizing download folders by podcast name  
 - **Optimization:** Improved interface display  
 
-## v1.5.33  
+## v1.7.33  
 
 **Update Date:** 2024/9/9  
 
@@ -60,6 +60,6 @@ prev: /docs/podcastedapp/podcastedpro
 - **Feature:** Added infinite scroll for podcast categories  
 - **Fix:** Fixed issues where some lists failed to load  
 
-## v1.5.32  
+## v1.7.32  
 
 - **Optimization:** Added theme switching without requiring app restart

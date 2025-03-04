@@ -7,8 +7,6 @@ prev: /docs/download-manager/dmkpro
 
 ## v1.5.50
 
-Date：TBD
-
 - Improvement: Some UI adjustment at the bottom
 
 ## v1.5.49
