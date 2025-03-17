@@ -5,6 +5,20 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.40
+
+**Release Date:** TBD
+
+- **Feature:** (PC) Game Bar support
+
+## v1.7.39
+
+**Release Date:** 2025/3/11
+
+- **Premium Feature:** New web player on the go
+- **Feature:** New share function allows web quick play
+- **Improvement:** More detailed introduced the premium feature
+
 ## v1.7.38
 
 **Release Date:** 2025/3/3
