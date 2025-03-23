@@ -7,7 +7,7 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.40
 
-**Release Date:** TBD
+**Release Date:** 2025/3/17
 
 - **Feature:** (PC) Game Bar support
 

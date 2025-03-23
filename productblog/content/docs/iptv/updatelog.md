@@ -7,11 +7,21 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.28
+## v1.0.29
 
 Release date: TBD
 
+- Improvement: optimization for Console TV overscan & remove blank border by default
 - Feature: VLC play audio from Bluetooth devices on your PC
+
+## v1.0.28
+
+Release date: 2025/3/24
+
+- Bug fixes(Major fix): Lower the crash posibility in VLC playback engine
+- Bug fixes: Lower the UI freezes after switching to unreponsive channels
+- Experimental feature: VLC add force fresh video option
+- Improvement: Mark EPG's date in the blade guide
 
 ## v1.0.27
 

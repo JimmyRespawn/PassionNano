@@ -7,7 +7,7 @@ prev: /docs/podcasted/podcastedpro
 
 ## v1.7.40
 
-发布日期：待定
+发布日期：2025/3/17
 
 - 功能：支持游戏小组件
 
