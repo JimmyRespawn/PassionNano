@@ -5,6 +5,12 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.41
+
+**Release Date:** TBD
+
+- **Feature:** More language(italian support) thanks to Giorgia S.
+
 ## v1.7.40
 
 **Release Date:** 2025/3/17

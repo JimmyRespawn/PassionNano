@@ -21,4 +21,6 @@ We use Visual Studio Application Insights to keep track of app usage, find bugs,
 
  ## User Guide
 
-We offer a complete usage guidance . [Click here to check it out.](/docs/iptv/)
+We offer a complete usage guidance . 
+[Windows/Console Version: Click here to check it out.](/docs/iptv/)
+[iOS Click here to check it out.](/docs/iptviOS/)
