@@ -22,5 +22,6 @@ Apps can not be built without the following tools and inspirations:
 - [WinUI 2](https://learn.microsoft.com/en-us/windows/apps/winui/winui2/)
 - [Windows Community Toolkit](https://aka.ms/wct)
 - [LibVLCSharp](https://code.videolan.org/videolan/LibVLCSharp)
+- [VLCKit](https://github.com/videolan/vlckit)
 - [FFmpeg](https://ffmpeg.org/)
 - [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net)
