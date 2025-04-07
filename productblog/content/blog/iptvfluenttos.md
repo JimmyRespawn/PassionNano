@@ -31,7 +31,7 @@ mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aif
 
 ## 3. Ownership and Intellectual Property
 
-The App and all related intellectual property — including but not limited to its code, design, trademarks, and content — are owned by `JimmyRespawn`. You may not copy, modify, distribute, reverse-engineer, or reproduce any part of the App without explicit permission.
+The App and all related intellectual property — including but not limited to its code, design, and content — are owned by `JimmyRespawn`. You may not copy, modify, distribute, reverse-engineer, or reproduce any part of the App without explicit permission.
 
 ## 4. Usage Requirements
 
@@ -49,7 +49,7 @@ You are responsible for maintaining the security of your device. Jailbreaking or
 
 The App requires an active internet connection for streaming and certain features. Whether connected via Wi-Fi or mobile data, users are responsible for any network charges incurred. Use of the App while roaming may lead to additional data charges, which are the user’s responsibility.
 
-## 6. Internet and Data Usage
+## 6. Updates and Availability
 
 JimmyRespawn may release updates, patches, or enhancements to improve the App’s functionality or address security concerns. You agree to install all required updates to continue using the App.
 

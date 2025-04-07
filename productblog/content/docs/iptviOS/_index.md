@@ -1,5 +1,5 @@
 ---
-linkTitle: IPTV
+linkTitle: IPTV for iOS
 title: IPTV Fluent for iOS
 prev: /docs/
 next: /docs/iptviOS/get-started
@@ -11,7 +11,7 @@ next: /docs/iptviOS/get-started
 
 **IPTV Fluent for iOS is under development. The download link will be published once the app passes the Apple reviews.**
 
-IPTV Fluent is a powerful software solution designed for seamless IPTV streaming and management.
+<!--IPTV Fluent is a powerful software solution designed for seamless IPTV streaming and management.
 
 This section covers tutorial how to use IPTV Fluent for iOS and iPadOS.
 
@@ -20,7 +20,7 @@ This section covers tutorial how to use IPTV Fluent for iOS and iPadOS.
   {{< card link="configurations" title="Configurations" icon="adjustments" >}}
   {{< card link="iptvplus" title="What's in IPTV Plus" icon="sparkles" >}}
   {{< card link="updatelog" title="Update log" icon="sparkles" >}}
-{{< /cards >}}
+{{< /cards >}}-->
 
 ### How to use?
 

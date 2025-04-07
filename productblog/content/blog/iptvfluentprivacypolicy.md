@@ -44,7 +44,7 @@ These tools help us:
 
 All analytics data collected is **aggregated and anonymized**, and does **not include any user-specific or device-identifiable information**.
 
-## 4. App Usage Analytics
+## 4. Third-Party Sharing
 
 We do **not** share any data — personal or anonymous — with third-party advertisers or marketers. The only third-party services used (e.g., for crash analytics) are strictly for diagnostic and stability purposes.
 
@@ -60,7 +60,7 @@ The App does **not** knowingly collect information from children under the age o
 
 Need help using the app? We've created complete guides to help you get started:
 
-[iOS and iPad OS Version](/docs/iptviOS/)
+[iOS and iPad OS Version](/docs/iptvios/)
 
 [Windows/Console Version](/docs/iptv/)
 
