@@ -3,24 +3,27 @@ title: IPTV Fluent Player Terms of Service (Terms)
 date: 2025-04-06
 authors:
   - name: JimmyRespawn
-    link: https://github.com/JimmyRespawn
     image: https://github.com/JimmyRespawn.png
 tags:
   - TOS
   - private
 excludeSearch: true
 hidden: true
+hide_navbar: true
+prev: false
+next: false
+hide_edit: true
 ---
 
 ## Terms & Conditions
 
-**Effective Date**: April 6, 2025
+**Effective Date**: April 8, 2025
 
-Welcome to IPTV Fluent. By downloading, installing, or using this application ("App"), you agree to comply with and be bound by the following terms and conditions. Please read them carefully before using the App.
+Welcome to IPTV Fluent Player. By downloading, installing, or using this application ("App"), you agree to comply with and be bound by the following terms and conditions. Please read them carefully before using the App.
 
 ## 1. Content Disclaimer
 
-IPTV Fluent is a third-party media player designed to allow users to stream and manage their own media content. The App **does not provide or include any media, content, or playlists.**
+IPTV Fluent Player is a third-party media player designed to allow users to stream and manage their own media content. The App **does not provide or include any media, content, or playlists.**
 
 Users are solely responsible for the content they load into the App. You may only use the App to access content that you are legally authorized to view. Streaming or downloading copyrighted material without proper authorization is strictly prohibited.
 
@@ -69,7 +72,7 @@ JimmyRespawn is not liable for:
 
 ## 8. Privacy
 
-Use of the App may involve the storage and processing of personal data you provide. This data is handled in accordance with our [Privacy Policy](/private/746295783301775360/tumblr_BMSPM9L3U9qwvvyW0/).
+Use of the App may involve the storage and processing of personal data you provide. This data is handled in accordance with our [Privacy Policy](/blog/iptvappprivatepolicy/).
 
 ## 9. Contact Information
 

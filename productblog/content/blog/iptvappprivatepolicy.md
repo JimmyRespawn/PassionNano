@@ -1,6 +1,6 @@
 ---
 title: IPTV Fluent Player Privacy Policy
-date: 2025-04-06
+date: 2025-04-10
 authors:
   - name: JimmyRespawn
     image: https://github.com/JimmyRespawn.png
@@ -13,12 +13,11 @@ hide_navbar: true
 prev: false
 next: false
 hide_edit: true
-url: "/private/746295783301775360/tumblr_BMSPM9L3U9qwvvyW0"
 ---
 
 ## Privacy Policy
 
-**Effective Date**: April 8, 2025
+**Effective Date**: April 10, 2025
 
 This Privacy Policy describes how **IPTV Fluent Player** ("we", "our", or "the App") handles user data and respects your privacy.
 
@@ -35,7 +34,7 @@ The App uses your internet connection solely for the purpose of streaming media 
 
 To improve app stability and user experience, IPTV Fluent Player integrates anonymous telemetry tools, such as:
 
-- **Visual Studio App Center**
+- **App Analytics**
 
 These tools help us:
 
@@ -61,7 +60,7 @@ The App does **not** knowingly collect information from children under the age o
 
 Need help using the app? We've created complete guides to help you get started:
 
-[Windows/Console Version](/docs/iptv/)
+[iOS and iPad OS Version](/docs/iptvios/)
 
 ## 8. Policy Updates
 
