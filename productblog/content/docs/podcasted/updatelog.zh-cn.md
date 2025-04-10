@@ -5,6 +5,12 @@ linkTitle: 更新日志
 prev: /docs/podcasted/podcastedpro
 ---
 
+## v1.7.41
+
+发布日期：2025/3/31
+
+- 功能：新增意大利语
+
 ## v1.7.40
 
 发布日期：2025/3/17

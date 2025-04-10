@@ -18,7 +18,7 @@ url: "/private/746295783301775360/tumblr_BMSPM9L3U9qwvvyW0"
 
 ## Privacy Policy
 
-**Effective Date**: April 8, 2025
+**Effective Date**: April 6, 2025
 
 This Privacy Policy describes how **IPTV Fluent Player** ("we", "our", or "the App") handles user data and respects your privacy.
 

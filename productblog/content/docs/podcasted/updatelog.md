@@ -7,7 +7,7 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.41
 
-**Release Date:** TBD
+**Release Date:** 2025/3/31
 
 - **Feature:** More language(italian support) thanks to Giorgia S.
 
