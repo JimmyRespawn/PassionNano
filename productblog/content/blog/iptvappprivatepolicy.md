@@ -1,6 +1,6 @@
 ---
 title: IPTV Fluent Player Privacy Policy
-date: 2025-04-9
+date: 2025-04-09
 authors:
   - name: JimmyRespawn
     image: https://github.com/JimmyRespawn.png

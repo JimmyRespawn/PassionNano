@@ -1,6 +1,6 @@
 ---
 title: IPTV Fluent Player Terms of Service (Terms)
-date: 2025-04-06
+date: 2025-04-08
 authors:
   - name: JimmyRespawn
     image: https://github.com/JimmyRespawn.png

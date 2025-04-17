@@ -2,7 +2,7 @@
 title: "Get Started"
 weight: 1
 prev: /docs/iptvios/
-next: /docs/iptv/configrations
+next: /docs/iptvos/configrations
 hide_navbar: true
 hide_edit: true
 ---

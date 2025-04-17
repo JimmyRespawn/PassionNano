@@ -9,9 +9,6 @@ tags:
   - private
 excludeSearch: true
 hidden: true
-hide_navbar: true
-prev: false
-next: false
 hide_edit: true
 url: "/private/746295783301775360/tumblr_BMSPM9L3U9qwvvyW0"
 ---

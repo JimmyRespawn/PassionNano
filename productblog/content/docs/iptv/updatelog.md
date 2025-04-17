@@ -7,12 +7,25 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.29
+## v1.0.30
 
 Release date: TBD
 
-- Improvement: optimization for Console TV overscan & remove blank border by default
 - Feature: VLC play audio from Bluetooth devices on your PC
+
+## v1.0.29
+
+Release date: 2025/4/16
+
+- Feature: (VLC) Change video scale
+- Feature: (VLC) Change audio delay
+- Feature: (VLC) Allow controls dock at the bottom in experimental feature
+- Improvement: UI improvements in Media Servers folder
+- Improvement: (Console) Optimization for TV overscan & remove blank border while fullscreen
+- Improvement: (Console) Add FFmpeg playback engine in Settings
+- Improvement: (Console) Add Stalker Portal list support
+- Bug fixes: Fix mouse hidden even side menu is open while fullscreen
+- Bug fixes: Keep lowering the crash posibility in VLC playback engine
 
 ## v1.0.28
 
