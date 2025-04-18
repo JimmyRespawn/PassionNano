@@ -30,18 +30,17 @@ Users are solely responsible for the content they load into the App. You may onl
 ## 2. Supported Formats
 
 The App supports a wide variety of file formats and streaming protocols, including (but not limited to):
-mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aiff, ttml, vtt, m4v, amr, caf, m4a, m4b, mp4, mp1, m1a, aax, mp2, w64, aa, mp3, itt, au, eac3, webvtt, ac3, m4p, loas, and live IPTV streams.
+mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aiff, ttml, vtt, m4v, amr, caf, m4a, m4b, mp4, mp1, m1a, mp2, w64, mp3, itt, au, eac3, webvtt, ac3, loas, and live IPTV streams.
 
 ## 3. Ownership and Intellectual Property
 
-The App and all related intellectual property — including but not limited to its code, design, and content — are owned by `JimmyRespawn`. You may not copy, modify, distribute, reverse-engineer, or reproduce any part of the App without explicit permission.
+The App and all related intellectual property — including but not limited to its code, design, and content — are owned by `Fan Jiana`. You may not copy, modify, distribute, reverse-engineer, or reproduce any part of the App without explicit permission.
 
 ## 4. Usage Requirements
 
 To use the App, you must:
 
-- Be at least the age of majority in your jurisdiction.
-
+<!-- - Be at least the age of majority in your jurisdiction. -->
 - Have a compatible iOS device and internet connection.
 
 - Not use the App for any illegal or unauthorized purposes.
@@ -54,7 +53,7 @@ The App requires an active internet connection for streaming and certain feature
 
 ## 6. Updates and Availability
 
-JimmyRespawn may release updates, patches, or enhancements to improve the App’s functionality or address security concerns. You agree to install all required updates to continue using the App.
+Fan Jiana may release updates, patches, or enhancements to improve the App’s functionality or address security concerns. You agree to install all required updates to continue using the App.
 
 We reserve the right to modify, suspend, or discontinue the App at any time without prior notice. In such cases, your license to use the App will be terminated, and you may be required to delete it from your device.
 
@@ -62,7 +61,7 @@ We reserve the right to modify, suspend, or discontinue the App at any time with
 
 While we strive to provide a high-quality experience, IPTV Fluent Player is offered "as is." We make no warranties regarding its functionality, reliability, or compatibility with all iOS devices.
 
-JimmyRespawn is not liable for:
+Fan Jiana is not liable for:
 
 - Any data loss, device damage, or service interruption.
 

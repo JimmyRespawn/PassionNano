@@ -1,5 +1,5 @@
 ---
-title: "Get Started"
+title: 快速入门
 weight: 1
 prev: /docs/iptvios/
 next: /docs/iptvos/configrations
@@ -7,15 +7,15 @@ hide_navbar: true
 hide_edit: true
 ---
 
-如果你是 IPTV 新手，请耐心一点。IPTV Fluent 并不提供内置频道。
+如果你不了解 IPTV ，请耐心查看文档。IPTV Fluent 并不提供内置频道。
 
 <!--more-->
 
 ## 1. 什么是 IPTV Fluent Player
 
-IPTV Fluent Player 是一款让用户通过互联网流式播放内容的软件工具。
+IPTV Fluent Player 是一款让用户通过互联网播放在线流媒体内容的软件工具。
 
-它支持各种格式的直播频道和点播内容，提供一个灵活的界面，帮助你浏览和观看来自世界各地的媒体资源。
+它支持各种格式的直播频道和点播内容，提供原生的界面，帮助你浏览和观看来自世界各地的媒体资源。
 
 ## 2. 什么是 M3U？如何合法获取？
 

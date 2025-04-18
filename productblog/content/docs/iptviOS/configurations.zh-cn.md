@@ -1,5 +1,5 @@
 ---
-title: "Configurations"
+title: 配置
 weight: 2
 prev: /docs/iptvos/get-started
 next: /docs/iptvos/iptvplus
@@ -7,7 +7,7 @@ hide_navbar: true
 hide_edit: true
 ---
 
-虽然只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，但它仍提供了强大的自定义设置选项。
+只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，并且提供了强大的自定义设置选项。
 
 <!--more-->
 
@@ -39,7 +39,7 @@ hide_edit: true
 
 ### 3.1 播放引擎
 
-播放引擎是流媒体背后的核心播放器。如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。
+如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。
 
 1：VLCKit 拥有更好的画面表现和源兼容性支持。
 
@@ -49,7 +49,7 @@ hide_edit: true
 
 如果设备处于蜂窝移动网络状态，视频播放可能会消耗大量流量。在此情况下打开视频时，应用会发出提醒。
 
-注意：播放过程中将不会再次提醒。
+注意：播放过程中切换网络环境将不会再次提醒。
 
 ## 4. 通用设置
 

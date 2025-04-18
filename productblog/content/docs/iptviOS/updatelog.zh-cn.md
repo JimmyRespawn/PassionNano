@@ -1,5 +1,5 @@
 ---
-title: Update log
+title: 更新日志
 weight: 4
 linkTitle: Update Log
 prev: /docs/iptvos/iptvplus

@@ -1,5 +1,5 @@
 ---
-title: What is in IPTV Plus
+title: IPTV Plus 的特点
 weight: 3
 linkTitle: IPTV Plus
 prev: /docs/iptvos/configrations
@@ -16,7 +16,7 @@ IPTV 专业版拥有为 IPTV Fluent 量身打造的增强功能。
 
 你可能会问，IPTV 专业版 与 iOS 上的其他 IPTV 应用有何不同？
 
-IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和错误修复。
+IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和缺陷修复。
 
 ## 2. 专业版提供了哪些功能？
 
@@ -32,9 +32,9 @@ IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和错�
 
 ## 3. 价格
 
-IPTV 专业版 目前仅提供一个选项：`终身 专业版`。
+IPTV 专业版 目前仅提供一个选项：`终身专业版`。
 
-- 当前 专业版 版本正在促销中，售价为 $5.99，直到应用获得更多专属功能为止。
+- 当前 专业版 版本正在促销中，售价为 $5.99，原价 $11.99，折扣会持续到应用获得更多专属功能为止。
 
 - 终身使用费用为 $5.99（不含增值税），可在 10 台设备上使用。
 
