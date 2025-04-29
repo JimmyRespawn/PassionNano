@@ -18,5 +18,5 @@ next: /docs/podcasted/updatelog
 
 ## Pricing
 
-- $2.49 USD/Lifetime license
+- $2.99 USD/Lifetime license
 - License for 10 devices

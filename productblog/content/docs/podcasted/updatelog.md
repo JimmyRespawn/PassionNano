@@ -5,6 +5,23 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.43
+
+**Release Date:** TBD
+
+- **Fix:** UI and minor fixes
+
+## v1.7.42
+
+**Release Date:** 2025/4/25
+
+- **Feature:** Change custom playback speed in settings
+- **Improvement:** Podcast detail page / Library page & Genre page UI changes
+- **Improvement:** Search and filter in library episodes
+- **Improvement:** Delete all favorite episodes by one click
+- **Improvement:** Console version remove overscan automatically
+- **Fix:** Console version won't download by default folder
+
 ## v1.7.41
 
 **Release Date:** 2025/3/31

@@ -9,7 +9,7 @@ hide_edit: true
 
 **IPTV Fluent for iOS正在内测中，审核通过后下载页面会在这里公布.**
 
-IPTV Fluent Player 流畅播放器是一款强大的软件解决方案，旨在实现无缝的 IPTV 流媒体播放和管理。
+IPTV Fluent Player for iOS 和 iPad 流畅播放器是一款强大的软件解决方案，旨在实现无缝的 IPTV 流媒体播放和管理。
 
 本节介绍如何使用 IPTV Fluent 的教程。
 
@@ -24,7 +24,11 @@ IPTV Fluent Player 流畅播放器是一款强大的软件解决方案，旨在�
 
 ### 1. 下载链接
 
-官方审核中，联系参加 `TestFlight`。
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+
+或者扫描二维码
+
+<img src="/images/IPTVFluentAppStoreQRCode.webp" width="260" alt="QRCode" />
 
 ### 2. 服务条款
 
@@ -33,3 +37,5 @@ IPTV Fluent 不托管或分发任何内容，也不会将您引导至任何经�
 ### 3. 联系我们
 
 如果你有任何想法，请联系我们: 📧 jimmyrespawn@hotmail.com
+
+备注：应用暂未在大陆地区上架，敬请期待。

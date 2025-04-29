@@ -25,7 +25,7 @@ Release date: 2025/4/16
 - Improvement: (Console) Add FFmpeg playback engine in Settings
 - Improvement: (Console) Add Stalker Portal list support
 - Bug fixes: Fix mouse hidden even side menu is open while fullscreen
-- Bug fixes: Keep lowering the crash posibility in VLC playback engine
+- Bug fixes: Keep lowering the crash possibilities in VLC playback engine
 
 ## v1.0.28
 

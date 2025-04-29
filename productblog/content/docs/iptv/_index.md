@@ -36,9 +36,19 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 
 ### Download Link
 
+Windows & Xbox version:
+
 [![image](/images/storeBadge.webp)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=officialwebsite)
 
 or use winget command `winget install 9PKMDLWBC8ZJ` in terminal -> Then enter `y`.
+
+iOS & iPad version：
+
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+
+or scan QR code to download for free:
+
+<img src="/images/IPTVFluentAppStoreQRCode.webp" width="260" alt="QRCode" />
 
 ## Q&A Trouble shoot
 
@@ -72,4 +82,4 @@ Currently only other two video engines support user agent required channel. Plea
 
 ### Is there mobile version for IPTV Fluent
 
-iOS version is under development. Though there is no release date for it yet, it'll be up once it's ready.
+iOS and iPad verison is available at app store. [Click here to download for free](https://apps.apple.com/app/id6744343679?ct=officialwebsite)).

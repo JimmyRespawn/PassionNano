@@ -11,6 +11,6 @@ IPTV Fluent Player is constantly receiving updates and in active development rig
 
 ## v1.0
 
-Release date: TBD
+Release date: 2025/4/29
 
 - Initial Release

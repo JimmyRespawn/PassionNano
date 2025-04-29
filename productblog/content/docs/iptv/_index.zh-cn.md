@@ -19,9 +19,19 @@ IPTV Fluent 是一款强大的软件解决方案，旨在实现无缝的 IPTV �
 
 ### 下载链接
 
+Windows 与 Xbox 版：
+
 [![image](https://od.lk/s/209911743_DGBCl/MicrosoftStoreDownload.PNG#left)](https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=officialwebsite)
 
 或者通过终端 Winget 命令 `winget install 9PKMDLWBC8ZJ` 接着输入 `y`。
+
+iOS 与 iPad 版：
+
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+
+或者扫描二维码
+
+<img src="/images/IPTVFluentAppStoreQRCode.webp" width="260" alt="QRCode" />
 
 ### 服务条款
 

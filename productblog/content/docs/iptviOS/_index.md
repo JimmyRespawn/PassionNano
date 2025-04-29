@@ -32,11 +32,13 @@ Go to `Library` at the bottom. Then click `add` button on the top right. Simply 
 
 IPTV Fluent does not host or distribute any content or re-direct you to any reseller. Please find m3u8 or m3u link provided by other legal IPTV providers. For more information [Click here](/blog/iptvfluenttos/)
 
-<!--### 2.3 Download Link
+### 2.3 Download Link
 
-Currently the app is under the official reviews.
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
 
-[![image](https://camo.githubusercontent.com/8a2321d73cec1670332518565fe519cd7141e4eb76976cbc2fbff390142a8f03/68747470733a2f2f696d672e7768616c656e61732e636f6d3a3238332f696d6167652f3230323230373134313231353337352e706e67)](https://apps.apple.com/app/id6744343679)-->
+or scan QR code to download for free:
+
+<img src="/images/IPTVFluentAppStoreQRCode.webp" width="260" alt="QRCode" />
 
 ## 2. Q&A Trouble shoot
 
@@ -51,3 +53,7 @@ There are two circumstances:
 ### 2.2 Contact Us
 
 If you have any questions or concerns about the app, feel free to contact us at: 📧 jimmyrespawn@hotmail.com
+
+### 2.3 Translating
+
+Help us translating the app by joining the [Crowdin group](https://crowdin.com/project/iptvfluentswift)

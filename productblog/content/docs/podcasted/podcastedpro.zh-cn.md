@@ -18,5 +18,5 @@ next: /docs/podcasted/updatelog
 
 ## 价格
 
-- ￥18 元人民币永久授权，具体基于 Store 地区
+- ￥21 元人民币永久授权，具体基于 Store 地区
 - 10 台设备授权
