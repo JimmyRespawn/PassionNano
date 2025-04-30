@@ -9,9 +9,7 @@ hide_edit: true
 
 ## 1. Introduction
 
-**IPTV Fluent for iOS is under development. The download link will be published once the app passes the Apple reviews.**
-
-IPTV Fluent Player is a powerful software solution designed for seamless IPTV streaming and management.
+IPTV Fluent Player for iOS and iPadOS is a powerful software solution designed for seamless IPTV streaming and management.
 
 This section covers tutorial how to use IPTV Fluent for iOS and iPadOS.
 
