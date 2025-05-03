@@ -61,4 +61,4 @@ hide_edit: true
 
 应用内提供两种语言选项：英文和繁体中文。
 
-欢迎加入 Crowdin 翻译小组，帮助我们翻译此应用。
+欢迎加入 [Crowdin](https://crowdin.com/project/iptvfluentswift) 翻译小组，帮助我们翻译此应用。

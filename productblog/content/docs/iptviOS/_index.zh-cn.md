@@ -22,7 +22,7 @@ IPTV Fluent Player for iOS 和 iPad 流畅播放器是一款强大的软件解�
 
 ### 1. 下载链接
 
-[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?pt=127753526&mt=8&ct=officialwebsite&platform=iphone)
 
 或者扫描二维码
 

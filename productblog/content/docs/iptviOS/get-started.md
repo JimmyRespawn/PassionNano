@@ -9,6 +9,8 @@ hide_edit: true
 
 Please be patient if you are new to IPTV. IPTV Fluent does not provide in-box channels.
 
+**Notice: For XC URL, the example link is like http://www.example.com:port/get.php , especially with `/get.php` at the end. In future, we'll optimize the auto link complete in future version**
+
 <!--more-->
 
 ## 1. What is an IPTV Fluent Player
@@ -39,7 +41,7 @@ Always ensure you are using legally acquired M3U files to avoid copyright violat
 
 ![33](/images/iptv_ios_getstarted_3.webp)
 
-3.4 Type your personal M3U URL into `Server address` and click `Create` button or the top right. Input list name or epg URL if you want. They are optional.
+3.4 Type your personal M3U URL into `Server address` and click `Create` button on the top right. Input list name or epg URL if you want. They are optional.
 
 ![34](/images/iptv_ios_getstarted_4.webp)
 

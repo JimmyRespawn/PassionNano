@@ -7,11 +7,17 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.30
+## v1.0.32
 
 Release date: TBD
 
 - Feature: VLC play audio from Bluetooth devices on your PC
+
+## v1.0.31
+
+Release date: 2025/5/1
+
+- Bug fixes: Fix some lists failed to load channels
 
 ## v1.0.29
 

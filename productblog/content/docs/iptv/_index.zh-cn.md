@@ -27,7 +27,7 @@ Windows 与 Xbox 版：
 
 iOS 与 iPad 版：
 
-[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?pt=127753526&mt=8&ct=officialwebsite&platform=iphone)
 
 或者扫描二维码
 

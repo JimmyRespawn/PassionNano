@@ -44,7 +44,7 @@ or use winget command `winget install 9PKMDLWBC8ZJ` in terminal -> Then enter `y
 
 iOS & iPad version：
 
-[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?pt=127753526&mt=8&ct=officialwebsite&platform=iphone)
 
 or scan QR code to download for free:
 

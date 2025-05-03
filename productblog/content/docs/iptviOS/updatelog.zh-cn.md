@@ -1,7 +1,7 @@
 ---
 title: 更新日志
 weight: 4
-linkTitle: Update Log
+linkTitle: 更新日志
 prev: /docs/iptvos/iptvplus
 hide_navbar: true
 hide_edit: true

@@ -60,4 +60,4 @@ There are `Channels` and `Library`. After launching the app, it'll immediately o
 
 There are 2 language options in the app. English and Chinese Traditional.
 
-Join the Crowdin translation group to help us translating the app.
+Join the [Crowdin translation group](https://crowdin.com/project/iptvfluentswift) to help us translating the app.

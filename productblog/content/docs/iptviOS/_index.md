@@ -32,7 +32,7 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 
 ### 2.3 Download Link
 
-[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?ct=officialwebsite)
+[![image](https://od.lk/s/221204631_BUHm4/AppStoreDownloadBadge.png#left)](https://apps.apple.com/app/id6744343679?pt=127753526&mt=8&ct=officialwebsite&platform=iphone)
 
 or scan QR code to download for free:
 
@@ -52,6 +52,10 @@ There are two circumstances:
 
 If you have any questions or concerns about the app, feel free to contact us at: 📧 jimmyrespawn@hotmail.com
 
-### 2.3 Translating
+### 2.3 XC URL not loading
+
+**Notice: For XC URL, the example link is like http://www.example.com:port/get.php , especially with `/get.php` at the end. In future, we'll optimize the auto link complete in future version**
+
+### 2.4 Translating
 
 Help us translating the app by joining the [Crowdin group](https://crowdin.com/project/iptvfluentswift)
