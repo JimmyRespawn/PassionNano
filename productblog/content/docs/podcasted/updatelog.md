@@ -5,9 +5,16 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
-## v1.7.43
+## v1.7.44
 
 **Release Date:** TBD
+
+- **Improvement:** More sort options in library management
+- **Improvement:** Cache management
+
+## v1.7.43
+
+**Release Date:** 2025/5/9
 
 - **Fix:** UI and minor fixes
 

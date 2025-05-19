@@ -10,13 +10,13 @@ title: Introduction
 ## What is JimmyRespawn?
 
 JimmyRespawn is a software publisher dedicated to delivering high-quality native apps.
-for the Windows and Xbox platforms, leveraging the latest Microsoft technologies to enhance user experiences.
+for the iOS, Windows and Xbox platforms, leveraging the latest Microsoft technologies to enhance user experiences.
 
 ## Features
 
 - **Beautiful Design** - Inspired by Fluent guideline to offer a modern design that makes app look outstanding.
-- **Responsive Layout and Dark Mode** - It looks great on all devices, from Xbox, tablet to desktop. Dark mode is also supported to accommodate various lighting conditions.
-- **Fast and Lightweight** - Powered by UWP, a lightning-fast software infrastructure built with .Net native, JimmyRespawn keeps its footprint minimal. No extra EXE installation are needed to use it.
+- **Responsive Layout and Dark Mode** - It looks great on all devices, from mobile, Xbox, tablet to desktop. Dark mode is also supported to accommodate various lighting conditions.
+- **Fast and Lightweight** - Powered by Swift or UWP, a lightning-fast software infrastructure built with Swift or .Net native, JimmyRespawn keeps its footprint minimal. No extra EXE installation are needed to use it.
 - **Multi-language** - Multi-language apps made easy with JimmyRespawn's multilingual mode.
 
 ## Questions or Feedback?

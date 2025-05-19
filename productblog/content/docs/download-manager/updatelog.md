@@ -5,6 +5,12 @@ linkTitle: Update log
 prev: /docs/download-manager/dmkpro
 ---
 
+## v1.5.51
+
+Date：TBD
+
+- Improvement: More native UI improvement in list
+
 ## v1.5.50
 
 - Improvement: Some UI adjustment at the bottom

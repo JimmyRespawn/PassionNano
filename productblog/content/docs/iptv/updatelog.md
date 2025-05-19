@@ -9,9 +9,13 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 ## v1.0.32
 
-Release date: TBD
+Release date: 2025/5/19
 
-- Feature: VLC play audio from Bluetooth devices on your PC
+- Pro Feature: Add new `every month` option for update frequency
+- Feature: Share encrypted channel with expiration date (App install required by other people)
+- Improvement: Auto complete incomplete URL for XCodes
+- Improvement: Improve the parser for M3U lists
+- Improvement: Typo fixes
 
 ## v1.0.31
 
@@ -93,7 +97,7 @@ Release date: 2024/9/10
 
 Release date: 2024/8/30
 
-- Feature: Export multi-selected channels to m3u list locally
+- Pro Feature: Export multi-selected channels to m3u list locally
 - Feature: Edit channel in local list
 - Adjustment: Better experience when add a channel to local list
 - Adjustment: Minor UI adjustment in EPG page
@@ -102,8 +106,8 @@ Release date: 2024/8/30
 
 Release date: 2024/8/19
 
+- Pro Feature: Add custom auto sleep time in settings
 - Feature: Add `Stalker Portal` (beta) online list support
-- Feature: Add custom auto sleep time in settings
 - Feature: Add reorder channel in favorite and local list
 - Bug fixes: Fix some navigation loop
 
