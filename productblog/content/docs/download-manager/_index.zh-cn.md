@@ -5,7 +5,7 @@ prev: /docs/
 next: /docs/download-manager/get-started
 ---
 
-下载管理器是一款 Windows 10/11 原生的下载应用，采用 Fluent 界面设计。
+下载管理器是一款 Windows 11/10 原生的下载应用，采用 Fluent 界面设计。
 
 研发这款应用的初衷是界面套壳的 Aria 和传统 idm 之间始终缺乏 UWP 原生界面的轻量下载器，并且自己正好也需要一款开箱即用的下载管理器，于是这款应用诞生了。
 

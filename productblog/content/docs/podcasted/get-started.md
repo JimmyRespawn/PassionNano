@@ -17,8 +17,6 @@ next: /docs/podcasted/configrations
 
 6. **Future:** We are expecting at least one time update every month to bring new features&nbsp; to Podcasted. Right now it is just finished basic function of it which brings you immerse into the design of the app. Here is some parts of future planned feature list:
 
-- Playlist
-
 - Notification for new episodes
 
 - Skip at the beginning of the episode

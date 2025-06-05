@@ -7,6 +7,30 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
+## v1.0.34
+
+Release date: TBD
+
+- Feature: (Beta) New media hub for Jellyfin, Emby and FTP as media servers
+- Feature: (Beta) Enable auto scan Jellyfin or WebDAV media server in local network
+- Feature: (Beta) Auto load external subtitles in Jellyfin or Emby media server
+- Improvement: Relocate subtitle and audio track selector for better UX
+- Improvement: (VLC) improve video control panel
+- Bug fixes: Fix some servers not respond channel lists
+- Bug fixes: Fix some issues with loading big list in local M3U files
+- Bug fixes: Fix subtitles once added new subtitle causing stack together under FFMPEG codec
+- Bug fixes: Fix unable to load multiple external subtitles
+- Bug fixes: (PC | VLC) Fix the progression lost for VOD when get back to the playing page
+- Bug fixes: (Console) Fix the app locked in the fullscreen after navigating away from the playing page
+
+## v1.0.33
+
+Release date: 2025/5/29
+
+- Pro Feature: (Beta) New media hub for DLNA, WebDAV and local as media servers
+- Pro Improvement: Autofill EPG URL under XC if there is no EPG set before
+- Improvement: Add restore `lifetime` purchase button
+
 ## v1.0.32
 
 Release date: 2025/5/19
@@ -154,7 +178,7 @@ Release date: 2024/7/26
 
 Release date: 2024/7/22
 
-- Feature: Stand alone EPG page
+- Pro Feature: Stand alone EPG page
 - Feature: New video info in blade bar
 - Feature: Change stream video track
 - Feature: Change stream audio track

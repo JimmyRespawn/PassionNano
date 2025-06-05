@@ -9,11 +9,13 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-<!-- ## v1.0.3
+## v1.0.3
 
 Release date: TBD
 
-- Improvement: Performance improvement while searching in huge lists for 100,000+ contents search -->
+- Feature: Grid view for iPhone
+- Improvement: Performance improvement
+- Improvement: Better export M3U file capabilities
 
 ## v1.0.2
 
