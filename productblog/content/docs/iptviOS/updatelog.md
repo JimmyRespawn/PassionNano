@@ -11,10 +11,10 @@ IPTV Fluent Player is constantly receiving updates and in active development rig
 
 ## v1.0.3
 
-Release date: TBD
+Release date: 2025/6/7
 
-- Feature: Grid view for iPhone
 - Improvement: Performance improvement
+- Feature: Grid view for iPhone
 - Improvement: Better export M3U file capabilities
 
 ## v1.0.2

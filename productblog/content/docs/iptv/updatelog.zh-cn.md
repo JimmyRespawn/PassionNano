@@ -7,9 +7,15 @@ prev: /docs/iptv/iptvplus
 
 IPTV 播放器目前正在积极开发中。
 
+## v1.0.35
+
+Release date: TBD
+
+- 功能: (测试) Jellyfin 与 Emby 的电影墙视图
+
 ## v1.0.34
 
-发布日期: 待定
+发布日期: 2025/6/8
 
 - 功能: (测试) 持新增包括 Jellyfin, Emby 和 FTP 作为媒体服务器
 - 功能: (测试) 允许自动搜索内网中的 Jellyfin, Emby 和 WebDAV 媒体服务器

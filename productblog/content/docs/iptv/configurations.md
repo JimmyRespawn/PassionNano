@@ -94,7 +94,7 @@ Turn on this feature will auto hide those channels after loading the online list
 
 ### Update frequency
 
-`Every day` option enables cache the online list every day without loading the list every time.
+`Every day`, `Every month` option enables cache the online list every day or every month without loading the list every time.
 
 ## Read More
 
