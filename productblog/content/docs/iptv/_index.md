@@ -56,25 +56,25 @@ or scan QR code to download for free:
 
 Please install the graphic driver on the device. The app uses software decoder to play video.
 
+### Unable to streaming video in background
+
+You may exit the playing page to library page in order to release the video comsumption, then direct the app to the background.
+
 ### Video glitch during streaming
 
 Switch playback engine in `Settings`.
 
-### Unable to streaming video in background
-
-Ditto. Switch to `System` playback engine in `Settings`.
-
 ### Random crash while switching between channels
 
-Ditto again. `VLC` might crash if there is bad connection during the channel switch.
+Ditto. `VLC` might crash if there is bad connection during the channel switch.
 
 ### Unable to parse the channel list
 
 There are two circumstances:
 
-- 1. The m3u/8 list does not follow the guideline. There is nothing we can do about this.
+- 1.The m3u/8 list does not follow the guideline. There is nothing we can do about this.
 
-- 2. Our parsing logic is unable to parse the list. Please send the list to us via mail if it's convenient for you.
+- 2.Our parsing logic is unable to parse the list. Please send the list to us via mail if it's convenient for you.
 
 ### Default system players does not load user agent required channel
 
@@ -82,4 +82,16 @@ Currently only other two video engines support user agent required channel. Plea
 
 ### Is there mobile version for IPTV Fluent
 
-iOS and iPad verison is available at app store. [Click here to download for free](https://apps.apple.com/app/id6744343679?ct=officialwebsite)).
+iOS and iPad verison is available at app store. [Click here to download for free](https://apps.apple.com/app/id6744343679?pt=127753526&mt=8&ct=officialwebsite&platform=iphone).
+
+### Media Hub for Emby, Jellyfin and WebDAV
+
+Starting at v1.0.34 for Windows & Xbox version. The app supports Emby, Jellyfin, WebDAV and DLNA as media servers.
+
+Access it by clicking the top right botton in the `Library` Page.
+
+The media info is accessible for Emby and Jellyfin servers. Currently there is no poster wall for medias yet. We'll see how it performs as media player now.
+
+The app is aiming to be a multi-media hub as Infuse and Kodi did in iOS and Android.
+
+P.S. On console you may experience glitch in few 4K videos due to codec issue. The only fix is using DLNA for these videos as replacement.

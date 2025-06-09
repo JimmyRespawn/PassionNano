@@ -36,3 +36,7 @@ iOS 与 iPad 版：
 ### 服务条款
 
 IPTV Fluent 不托管或分发任何内容，也不会将您引导至任何经销商。请寻找由其他合法 IPTV 提供商提供的 m3u8 或 m3u 链接。
+
+### 基于 Jellyfin, Emby 和 WebDAV 的媒体中心
+
+在最新的 Windows/Xbox 版中，推出了设置以 Jellyfin, Emby, WebDAV 和 DLNA 为基础的媒体源，用来探索更多内容的播放可能性，目前 Jellyfin 与 Emby 可以展示媒体详细信息，暂无提供对媒体海报墙的展示。现在先以播放解码的质量与体验为重，本应用仍然还是以 IPTV 源播放为重。

@@ -9,8 +9,6 @@ prev: /docs/podcastedapp/podcastedpro
 
 **Release Date:** TBD
 
-- **Improvement:** More sort options in library management
-- **Improvement:** Cache management
 - **Fix:** Typo fix
 
 ## v1.7.43
