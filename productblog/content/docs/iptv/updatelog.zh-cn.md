@@ -9,9 +9,10 @@ IPTV 播放器目前正在积极开发中。
 
 ## v1.0.35
 
-Release date: TBD
+发布日期: 待定
 
-- 功能: (测试) Jellyfin 与 Emby 的电影墙视图
+<!-- - 功能: (测试) Jellyfin 与 Emby 的电影墙视图 -->
+- 功能: (主机) 支持 Jellyfin 和 Emby 下的 4K HEVC 视频
 
 ## v1.0.34
 

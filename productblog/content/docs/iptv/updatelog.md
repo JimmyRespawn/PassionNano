@@ -11,9 +11,9 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
-- Feature: (Beta) Movie/TV wall view for Jellyfin and Emby media servers
-- Bug fixes: (VLC) Fix the progression's dot lag for VOD
-
+- Feature: (Console) Support 4K HEVC Codec video on Emby or Jellyfin server by using server acceleration
+<!-- - Pro Feature: (Beta) Movie/TV wall view for Jellyfin and Emby media servers -->
+<!-- - Pro Feature: (PC) Pin media server to start menu -->
 ## v1.0.34
 
 Release date: 2025/6/8
