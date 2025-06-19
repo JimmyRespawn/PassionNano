@@ -9,13 +9,21 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
+## v1.0.4
+
+Release date: TBD
+
+- Improvement: Performance improvement
+<!-- - Feature: import channels via text
+- Improvement: favorite multiple channels at once -->
+
 ## v1.0.3
 
 Release date: 2025/6/7
 
 - Improvement: Performance improvement
-- Feature: Grid view for iPhone
-- Improvement: Better export M3U file capabilities
+<!-- - Feature: Grid view for iPhone
+- Improvement: Better export M3U file capabilities -->
 
 ## v1.0.2
 

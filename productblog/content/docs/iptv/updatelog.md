@@ -7,13 +7,23 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.35
+## v1.0.36
 
 Release date: TBD
 
-- Feature: (Console) Support 4K HEVC Codec video on Emby or Jellyfin server by using server acceleration
-<!-- - Pro Feature: (Beta) Movie/TV wall view for Jellyfin and Emby media servers -->
-<!-- - Pro Feature: (PC) Pin media server to start menu -->
+- Pro Feature: Brand new media home for multi-source media library
+
+## v1.0.35
+
+Release date: 2025/6/19
+
+- Feature: (Console) Support 4K HEVC Codec video on Emby or Jellyfin server by using server transcoding
+- Pro Feature: (Beta) Movie/TV wall view for Jellyfin and Emby media servers
+- Pro Feature: (PC) Quick guide for system video codec downloads
+- Pro Feature: (PC) Pin media server to start menu
+- Improvement: More native Turkish translation special thanks to community numbers!
+- Bug fixes: Hide the language in settings which is not supported by the system
+
 ## v1.0.34
 
 Release date: 2025/6/8
