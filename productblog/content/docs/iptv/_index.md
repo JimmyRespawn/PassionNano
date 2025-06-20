@@ -94,4 +94,4 @@ The media info is accessible for Emby and Jellyfin servers. Currently there is n
 
 The app is aiming to be a multi-media hub as Infuse and Kodi did in iOS and Android.
 
-P.S. On console you may experience glitch in few 4K videos due to codec issue. The only fix is using DLNA for these videos as replacement.
+P.S. On console the app is using server transcoding for 4K HEVC videos due to codec issue. Other videos are using the native hardware decode.

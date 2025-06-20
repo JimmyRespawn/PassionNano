@@ -11,7 +11,8 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
-- Pro Feature: Brand new media home for multi-source media library
+- Feature: New onboard pages to guide users for initial setup
+- Improvement: Some typo fixes
 
 ## v1.0.35
 
