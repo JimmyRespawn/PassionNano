@@ -7,12 +7,21 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.36
+## v1.0.37
 
 Release date: TBD
 
-- Feature: New onboard pages to guide users for initial setup
+- Pro Feature: Poster wall modification for Jellyfin and Emby
+- Feature: Search in Poster wall for Jellyfin and Emby
+- Bug fixes: Episodes order correction in Series Page for Jellyfin and Emby
+
+## v1.0.36
+
+Release date: 2025/6/22
+
+- Feature: Support complete Jellyfin or Emby's poster wall with genre types
 - Improvement: Some typo fixes
+- Major Bug fixes: Fix some XC M3U lists won't be downloaded
 
 ## v1.0.35
 
