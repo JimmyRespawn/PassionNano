@@ -11,9 +11,18 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
+- Feature: New fullscreen big picture mode available in setttings
 - Pro Feature: Poster wall modification for Jellyfin and Emby
 - Feature: Search in Poster wall for Jellyfin and Emby
+- Feature: Cross platform resume play in Poster wall for Jellyfin and Emby
+- Feature: Genre view for Jellyfin and Emby
+- Feature: Unplayed mark in poster view, mark videos played and favorited for Jellyfin and Emby
+- Improvement: Enhanced fullscreen touch device control and navigation
+- Improvement: Better gamepad control on PC
+- Improvement: Launche menu includes `Media hub` available for all users
 - Bug fixes: Episodes order correction in Series Page for Jellyfin and Emby
+- Bug fixes: Unusual occassion entering an episode detail after crashing for Jellyfin and Emby
+- Bug fixes: Typo fix
 
 ## v1.0.36
 

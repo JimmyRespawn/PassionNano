@@ -34,3 +34,40 @@ The plus function offered in two versions is identical.
 Sign into account via official msft page to cancel the IPTV plus.
 
 [Microsoft Subscription](https://account.microsoft.com/services)
+
+## Full feature list offered by Plus
+
+Offering 15+ exclusive PLUS features:
+
+Playback
+
+- Auto sleep timer
+- Save screenshots
+- Import external subtitles via URL or local file
+
+EPG
+
+- EPG support and search channels or programmes
+- EPG for the single channel
+
+Playlists
+
+- Add channels to favorite or local lists
+- Multiple online playlists setup
+- Export playlists
+- Cache lists with `Every day` or `Every month`
+
+Mediahub
+
+- Set more than 2 media sources
+- Modify poster wall for Emby or Jellyfin
+- Full codec playback support
+- Pin media source to the Start menu
+
+Other
+
+- Sync favorite and online lists via OneDrive
+- Remove advertisement
+- Gamepad controls optimization
+- OLED burn-in preventor
+- Support the developer
