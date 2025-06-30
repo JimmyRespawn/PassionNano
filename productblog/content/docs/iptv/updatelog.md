@@ -7,9 +7,15 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.37
+## v1.0.38
 
 Release date: TBD
+
+- Bug fixes: Slider progression not synced up
+
+## v1.0.37
+
+Release date: 2025/7/1
 
 - Feature: New fullscreen big picture mode available in setttings
 - Pro Feature: Poster wall modification for Jellyfin and Emby
