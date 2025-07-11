@@ -7,6 +7,17 @@ prev: /docs/iptv/iptvplus
 
 IPTV 播放器目前正在积极开发中。
 
+## v1.0.38
+
+发布日期: 待定
+
+- 功能: 支持通过系统媒体播放器和 VLC UWP 打开频道
+- 优化: VOD 设置首选字幕
+- 修复: EPG 页面频道位置调整
+- 功能: Emby 和 Jellyfin 允许强制服务器解码
+- 修复: Emby 和 Jellyfin 海报墙内容多时图片黑色的问题
+- 修复: Emby 和 Jellyfin 多季时剧集顺序展示错误的问题
+
 ## v1.0.37
 
 发布日期: 2025/7/1

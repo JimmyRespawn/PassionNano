@@ -35,7 +35,7 @@ iOS 与 iPad 版：
 
 ### 服务条款
 
-IPTV Fluent 不托管或分发任何内容，也不会将您引导至任何经销商。请寻找由其他合法 IPTV 提供商提供的 m3u8 或 m3u 链接。
+IPTV Fluent 不托管或分发任何内容，也不会将您引导至任何经销商。请寻找由其他合法 IPTV 提供商提供的 M3U8 或 M3U 链接。
 
 ### 基于 Jellyfin, Emby 和 WebDAV 的媒体中心
 

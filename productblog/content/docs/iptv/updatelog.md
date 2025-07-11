@@ -11,13 +11,18 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
-- Bug fixes: Slider progression not synced up
+- Pro Feature: Open channel with `system media player` or `VLC UWP` -> Right click channel in Channels Page
+- Improvement: Set load priority subtitle for VOD
+- Bug fixes: EPG page channels' time offset correction
+- Pro Feature: Set force server transcoding for Jellyfin and Emby
+- Bug fixes: Fix black images under poster view for Jellyfin and Emby
+- Bug fixes: Fix episode order for Jellyfin and Emby
 
 ## v1.0.37
 
 Release date: 2025/7/1
 
-- Feature: New fullscreen big picture mode available in setttings
+- Feature: New fullscreen big picture mode available in settings
 - Pro Feature: Poster wall modification for Jellyfin and Emby
 - Feature: Search in Poster wall for Jellyfin and Emby
 - Feature: Cross platform resume play in Poster wall for Jellyfin and Emby

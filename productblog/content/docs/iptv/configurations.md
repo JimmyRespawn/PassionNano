@@ -34,7 +34,7 @@ There are `Live TV`, `Channels` and `Library`. After launching the app, it'll im
 ![image](https://od.lk/s/200607851_yegn7/language.png)
 There are 20 language options in the app.
 
-Except English, French, Spanish and Chinese, other language is translated by AI and machine. Join the translation group to help us translating the app.
+Except English, French, Spanish, Turkish and Chinese, other language is translated by AI and machine. Join the translation group to help us translating the app.
 
 If your OS does not have the language pack, the app language won't take effect after changing.
 

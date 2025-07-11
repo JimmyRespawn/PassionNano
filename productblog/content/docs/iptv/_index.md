@@ -72,7 +72,7 @@ Ditto. `VLC` might crash if there is bad connection during the channel switch.
 
 There are two circumstances:
 
-- 1.The m3u/8 list does not follow the guideline. There is nothing we can do about this.
+- 1.The M3U/8 list does not follow the guideline. There is nothing we can do about this.
 
 - 2.Our parsing logic is unable to parse the list. Please send the list to us via mail if it's convenient for you.
 
