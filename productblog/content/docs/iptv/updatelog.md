@@ -9,14 +9,16 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 ## v1.0.38
 
-Release date: TBD
+Release date: 2025/7/14
 
-- Pro Feature: Open channel with `system media player` or `VLC UWP` -> Right click channel in Channels Page
-- Improvement: Set load priority subtitle for VOD
-- Bug fixes: EPG page channels' time offset correction
-- Pro Feature: Set force server transcoding for Jellyfin and Emby
-- Bug fixes: Fix black images under poster view for Jellyfin and Emby
-- Bug fixes: Fix episode order for Jellyfin and Emby
+- Feature: (PC) New `Remote Control` option in Settings to enable remote control or air mouse navigation
+- Pro Feature: Open channels with the system media player or VLC UWP — right-click a channel in the Channels page
+- Improvement: Set preferred subtitle track for VOD playback
+- Improvement: Improved translations in some languages
+- Bug fixes: Corrected time offset for channels on the EPG page
+- Pro Feature: Option to force server-side transcoding for Jellyfin and Emby
+- Bug fixes: Fixed black poster images in poster view for Jellyfin and Emby
+- Bug fixes: Fixed incorrect episode order for Jellyfin and Emby
 
 ## v1.0.37
 
