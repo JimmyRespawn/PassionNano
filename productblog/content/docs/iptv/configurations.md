@@ -27,16 +27,16 @@ To adjust settings in IPTV Fluent, simply click `Settings` button on the left me
 
 ![image](https://od.lk/s/200607426_u0Sx5/launchmenu.png)
 
-There are `Live TV`, `Channels` and `Library`. After launching the app, it'll immediately open the option you choose.
+There are `Live TV`, `Channels`, `Library`, `MediaHub` and `Big Picture`. After launching the app, it'll immediately open the option you choose.
 
 ### App language
 
 ![image](https://od.lk/s/200607851_yegn7/language.png)
-There are 20 language options in the app.
+There are 21 language options in the app.
 
 Except English, French, Spanish, Turkish and Chinese, other language is translated by AI and machine. Join the translation group to help us translating the app.
 
-If your OS does not have the language pack, the app language won't take effect after changing.
+If your OS does not have the language pack, the app language won't show up in settings.
 
 ## Playlist sync
 

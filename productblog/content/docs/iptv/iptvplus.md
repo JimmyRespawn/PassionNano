@@ -37,13 +37,14 @@ Sign into account via official msft page to cancel the IPTV plus.
 
 ## Full feature list offered by Plus
 
-Offering 15+ exclusive PLUS features:
+Offering 16+ exclusive PLUS features:
 
 Playback
 
 - Auto sleep timer
 - Save screenshots
 - Import external subtitles via URL or local file
+- Open with multiple channels at the same time
 
 EPG
 

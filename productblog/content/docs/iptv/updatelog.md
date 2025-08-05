@@ -7,6 +7,23 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
+## v1.0.40
+
+Release date: TBD
+
+- Feature: (PC) Support GameBar widget
+- Pro Feature: Force refresh for missing channels in `COG` icon
+
+## v1.0.39
+
+Release date: 2025/8/4
+
+- Pro Feature: (PC|Beta) Play a channel in new Window
+- Improvement: Cache in local for FTP server by right clicking file
+- Improvement: Minor UI tweaks
+- Bug fixes: Display correct channel name while using remote control for dialing numbers
+- Bug fixes: Fix some circumstances which unable to play videos in ftp server
+
 ## v1.0.38
 
 Release date: 2025/7/14

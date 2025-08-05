@@ -54,7 +54,7 @@ or scan QR code to download for free:
 
 ### Instant crash after loading channels
 
-Please install the graphic driver on the device. The app uses software decoder to play video.
+Please install the graphic driver on the device. The app uses software decoder and hardware decoder to play video.
 
 ### Unable to streaming video in background
 
@@ -95,3 +95,7 @@ The media info is accessible for Emby and Jellyfin servers. Currently there is n
 The app is aiming to be a multi-media hub as Infuse and Kodi did in iOS and Android.
 
 P.S. On console the app is using server transcoding for 4K HEVC videos due to codec issue. Other videos are using the native hardware decode.
+
+### How to launch on startup or pin it to desktop
+
+Follow this instruction: [Tutorial here](/blog/iptvfluentlaunchonstartup/).
