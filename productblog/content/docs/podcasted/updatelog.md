@@ -10,6 +10,7 @@ prev: /docs/podcastedapp/podcastedpro
 **Release Date:** TBD
 
 - **Fix:** Typo fix
+- **Fix:** Hide the language which not available in the settings
 
 ## v1.7.43
 
