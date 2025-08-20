@@ -9,13 +9,20 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
+## v1.0.5
+
+Release date: 2025/8/4
+
+- Feature: Add subtitle via local or online for VOD streaming
+- Improvement: Tap again to hide playback overlay
+
 ## v1.0.4
 
-Release date: 2025/06/12
+Release date: 2025/6/12
 
 - Improvement: Performance improvement
-- Feature: import channels via text
-- Improvement: favorite multiple channels at once
+- Feature: Import channels via text
+- Improvement: Favorite multiple channels at once
 
 ## v1.0.3
 

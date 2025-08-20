@@ -37,7 +37,7 @@ Sign into account via official msft page to cancel the IPTV plus.
 
 ## Full feature list offered by Plus
 
-Offering 16+ exclusive PLUS features:
+Offering 17+ exclusive PLUS features:
 
 Playback
 
@@ -69,6 +69,7 @@ Other
 
 - Sync favorite and online lists via OneDrive
 - Remove advertisement
-- Gamepad controls optimization
+- Gamepad controls optimization | Manually enable required
 - OLED burn-in preventor
+- Force refresh for online lists
 - Support the developer

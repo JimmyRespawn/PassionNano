@@ -7,12 +7,21 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.40
+## v1.0.41
 
 Release date: TBD
 
 - Feature: (PC) Support GameBar widget
+
+## v1.0.40
+
+Release date: TBD
+
+- Pro Feature: (VLC|Beta) Recording video and save into video file | Free during beta
 - Pro Feature: Force refresh for missing channels in `COG` icon
+- Feature: (VLC) Customize VLC options in order to add referrer, user-agent, etc
+- Feature: Play seek support for older programmes (Server is required to support old programmes | Channels have to be added into favorite)
+- Improvement: Testing new Undo button for unlike channel wrongly
 
 ## v1.0.39
 

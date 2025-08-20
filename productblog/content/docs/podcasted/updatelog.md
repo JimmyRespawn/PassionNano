@@ -7,10 +7,13 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.44
 
-**Release Date:** TBD
+**Release Date:** 2025/8/15
 
-- **Fix:** Typo fix
-- **Fix:** Hide the language which not available in the settings
+- **Feature:** Brand new discover section with better UI/UX and more frequent podcasts for better discoverbility
+- **Improvement:** Better in-app notification tip
+- **Improvement:** New sponsor programme which allows sponsorship podcasts
+- **Fix:** Hide the language which is not available in the settings
+- **Fix:** Typo fix and shownotes timeline navigation fix
 
 ## v1.7.43
 
