@@ -15,13 +15,15 @@ Release date: TBD
 
 ## v1.0.40
 
-Release date: TBD
+Release date: 2025/8/27
 
-- Pro Feature: (VLC|Beta) Recording video and save into video file | Free during beta
+- Pro Feature: (PC|VLC|Beta) Recording video and save into video file | Free during beta
 - Pro Feature: Force refresh for missing channels in `COG` icon
-- Feature: (VLC) Customize VLC options in order to add referrer, user-agent, etc
-- Feature: Play seek support for older programmes (Server is required to support old programmes | Channels have to be added into favorite)
-- Improvement: Testing new Undo button for unlike channel wrongly
+- Feature: (VLC|FFMPEG) Customize Playback options in order to add referrer, user-agent, etc
+- Feature: (Beta) Play seek support for older programmes (Server is required to support old programmes | Channels have to be added into favorite)
+- Improvement: Testing new Undo button when unlike channel accidentally
+- Improvement: (VLC) Adjust some icons to represent the features more accurately and native
+- Improvement: UX with some items with horizontal scroll actions
 
 ## v1.0.39
 

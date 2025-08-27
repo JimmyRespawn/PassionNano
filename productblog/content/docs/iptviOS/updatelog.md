@@ -9,6 +9,12 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
+## v1.0.6
+
+Release date: 2025/8/26
+
+- Feature: (Beta) Play seek support for older programmes (Server is required to support old programmes | Direct click older programme in EPG tab under play video page)
+
 ## v1.0.5
 
 Release date: 2025/8/4

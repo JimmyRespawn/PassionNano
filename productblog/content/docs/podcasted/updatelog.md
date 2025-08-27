@@ -5,6 +5,14 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.45
+
+**Release Date:** TBD
+
+- **Improvement:** Better navigation in gamebar widget mode
+- **Improvement:** Some UX improvement
+- **Fix:** Some discover page navigation glitch
+
 ## v1.7.44
 
 **Release Date:** 2025/8/15
