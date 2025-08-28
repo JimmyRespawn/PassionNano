@@ -9,6 +9,12 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
+## v1.0.7
+
+Release date: TBD
+
+- Feature: (VLC) Customize Playback options in order to add referrer, user-agent, etc
+
 ## v1.0.6
 
 Release date: 2025/8/26

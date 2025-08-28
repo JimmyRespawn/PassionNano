@@ -7,11 +7,13 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.45
 
-**Release Date:** TBD
+**Release Date:** 2025/8/28
 
+- **Improvement:** Language translation improved
 - **Improvement:** Better navigation in gamebar widget mode
 - **Improvement:** Some UX improvement
 - **Fix:** Some discover page navigation glitch
+- **Fix:** App freeze after waking up from sleep
 
 ## v1.7.44
 

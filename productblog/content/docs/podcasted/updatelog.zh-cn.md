@@ -5,6 +5,12 @@ linkTitle: 更新日志
 prev: /docs/podcasted/podcastedpro
 ---
 
+## v1.7.45
+
+发布日期：2025/8/28
+
+- 更新内容待完善
+
 ## v1.7.44
 
 发布日期：2025/8/15
