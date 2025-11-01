@@ -9,11 +9,23 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-## v1.0.7
+## v1.0.9
 
 Release date: TBD
 
+- Feature: Standalone EPG page which show all epg channels
+
+## v1.0.8
+
+Release date: 2025/10/16
+
 - Feature: (VLC) Customize Playback options in order to add referrer, user-agent, etc
+
+## v1.0.7
+
+Release date: 2025/9/17
+
+- Improvement: Support for iOS 26 with the all-new Liquid Glass visual style — sleek, fluid, and more immersive
 
 ## v1.0.6
 

@@ -25,7 +25,7 @@ M3U 是一种常用于存储 IPTV 频道列表的播放列表文件格式。
 
 ## 3. 如何在 IPTV Fluent 中使用 M3U
 
-![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/raw/main/doc/images/SearchSectionIPTVFluent.png?raw=true)
+![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.webp?raw=true)
 
 要开始使用 IPTV Fluent，只需在搜索栏中输入 M3U URL。
 

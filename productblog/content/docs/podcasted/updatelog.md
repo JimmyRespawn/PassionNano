@@ -5,6 +5,13 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.46
+
+**Release Date:** 2025/10/22
+
+- **Fix:** Genre and discover pages return the same podcasts whatsoever
+- **Fix:** Reset app will wipe the Pro version state
+
 ## v1.7.45
 
 **Release Date:** 2025/8/28

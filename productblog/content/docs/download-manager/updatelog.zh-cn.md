@@ -5,6 +5,12 @@ linkTitle: 更新日志
 prev: /docs/download-manager/dmkpro
 ---
 
+## v1.5.51
+
+更新日期：待定
+
+- 优化：更加原生的列表界面
+
 ## v1.5.50
 
 - 优化：底部 UI 优化

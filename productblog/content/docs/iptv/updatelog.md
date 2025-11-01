@@ -7,11 +7,42 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.41
+## v1.0.44
 
 Release date: TBD
 
-- Feature: (PC) Support GameBar widget
+- Feature: Debugger for failing to grab a list or play a channel
+
+## v1.0.43
+
+Release date: 2025/11/15
+
+- Improvement: Improve pinned speed for the first time under Win 11
+- Improvement: Some UI adjustment
+- Bug fixes: Fix the failure of downloading list from some short url sites like shortio, etc
+- Bug fixes: Fix the failure of downloading EPG when the EPG is a huge list
+- Bug fixes: Fix the top right color not changing while auto theme switched
+
+## v1.0.42
+
+Release date: 2025/10/24
+
+- Improvement: Provide higher-resolution icons
+- Improvement: On the EPG page, quickly navigate to a specific page by tapping the number
+- Improvement: (FFMPEG|System Engine) Take a snapshot by right-clicking
+- Bug fixes: (PC) Fix an issue where failing to navigate or playing a channel after clicking a pinned tile while the app was open
+- Bug fixes: (PC) Fix an issue where some channels could not be pinned to Start
+- Bug fixes: (Console) Remove the language options in settings that do not match the system
+
+## v1.0.41
+
+Release date: 2025/9/25
+
+- Feature: Cache management for checking and clear temp files
+- Improvement: Online list in library gets new vertical view switch
+- Improvement: Add header in narrow state window for better readability
+- Bug fixes: (VLC) Inaccurate progress slider's position under some circummenstances
+- Bug fixes: (VLC) Volume changing doesn't work while video paused
 
 ## v1.0.40
 

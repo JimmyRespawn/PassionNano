@@ -52,10 +52,6 @@ There are two circumstances:
 
 If you have any questions or concerns about the app, feel free to contact us at: 📧 jimmyrespawn@hotmail.com
 
-### 2.3 XC URL not loading
-
-**Notice: For XC URL, the example link is like http://www.example.com:port/get.php , especially with `/get.php` at the end. In future, we'll optimize the auto link complete in future version**
-
-### 2.4 Translating
+### 2.3 Translating
 
 Help us translating the app by joining the [Crowdin group](https://crowdin.com/project/iptvfluentswift)

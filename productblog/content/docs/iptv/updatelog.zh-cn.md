@@ -7,6 +7,43 @@ prev: /docs/iptv/iptvplus
 
 IPTV 播放器目前正在积极开发中。
 
+## v1.0.44
+
+发布日期: 待定
+
+- 功能: 用于校验空列表和节目不播放的调试程序
+
+## v1.0.43
+
+发布日期: 2025/11/15
+
+- 优化： Improve pinned speed for the first time under Win 11
+- 优化： Some UI adjustment
+- 修复： Fix the failure of downloading list from some short url sites like shortio, etc
+- 修复： Fix the failure of downloading EPG when the EPG is a huge list
+- 修复： Fix the top right color not changing while auto theme switched
+
+## v1.0.42
+
+发布日期: 2025/10/24
+
+- 优化： 提供更高分辨率的图标
+- 优化： 在 EPG 页面中，可通过点击页码快速跳转到指定页面
+- 优化： （FFmpeg | 系统引擎）支持通过右键点击进行截图
+- 修复： （PC）修复了在应用已打开时，点击固定磁贴后无法导航页面或播放频道的问题
+- 修复： （PC）修复了某些频道无法固定到开始菜单的问题
+- 修复： 隐藏设置中与系统语言不匹配的语言选项
+
+## v1.0.41
+
+发布日期: 2025/9/25
+
+- 功能: 应用缓存管理
+- 优化: 在线列表支持纵向查看
+- 优化: 窄窗口时滑动更好的可读性
+- 修复: (VLC) 减少拖动视频进度时无法控制进度条的问题
+- 修复: (VLC) 修复视频暂停后调整音量不生效的问题
+
 ## v1.0.40
 
 发布日期: 2025/8/27
