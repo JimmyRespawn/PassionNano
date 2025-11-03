@@ -37,7 +37,7 @@ Sign into account via official msft page to cancel the IPTV plus.
 
 ## Full feature list offered by Plus
 
-Offering 17+ exclusive PLUS features:
+Offering 19+ exclusive PLUS features:
 
 Playback
 

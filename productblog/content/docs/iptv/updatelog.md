@@ -12,16 +12,20 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 Release date: TBD
 
 - Feature: Debugger for failing to grab a list or play a channel
+- Pro Feature: Backup and restore the app data in local file
 
 ## v1.0.43
 
-Release date: 2025/11/15
+Release date: 2025/11/14
 
+- Pro Feature: Archive an online list if you want to keep it but not show in the main list
+- Improvement: Continuous play after video end for local video in media hub
+- Improvement: (FFMPEG) Enable OLED burn-in preventor button
 - Improvement: Improve pinned speed for the first time under Win 11
-- Improvement: Some UI adjustment
+- Improvement: Some UI adjustment and translation completion
+- Bug fixes: Fix some failure of downloading EPG when the EPG is a huge list
 - Bug fixes: Fix the failure of downloading list from some short url sites like shortio, etc
-- Bug fixes: Fix the failure of downloading EPG when the EPG is a huge list
-- Bug fixes: Fix the top right color not changing while auto theme switched
+- Bug fixes: Fix the top-right button color not changing while auto theme switched
 
 ## v1.0.42
 

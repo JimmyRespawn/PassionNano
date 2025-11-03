@@ -15,13 +15,16 @@ IPTV 播放器目前正在积极开发中。
 
 ## v1.0.43
 
-发布日期: 2025/11/15
+发布日期: 2025/11/14
 
-- 优化： Improve pinned speed for the first time under Win 11
-- 优化： Some UI adjustment
-- 修复： Fix the failure of downloading list from some short url sites like shortio, etc
-- 修复： Fix the failure of downloading EPG when the EPG is a huge list
-- 修复： Fix the top right color not changing while auto theme switched
+- Pro Feature: Archive an online list if you want to keep it but not show in the main list
+- Improvement: Continuous play after video end for local video in media hub
+- Improvement: (FFMPEG) Enable OLED burn-in preventor button
+- Improvement: Improve pinned speed for the first time under Win 11
+- Improvement: Some UI adjustment and translation completion
+- Bug fixes: Fix some failure of downloading EPG when the EPG is a huge list
+- Bug fixes: Fix the failure of downloading list from some short url sites like shortio, etc
+- Bug fixes: Fix the top-right button color not changing while auto theme switched
 
 ## v1.0.42
 
