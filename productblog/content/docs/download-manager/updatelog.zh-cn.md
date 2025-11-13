@@ -10,6 +10,7 @@ prev: /docs/download-manager/dmkpro
 更新日期：待定
 
 - 优化：更加原生的列表界面
+- 修复：视频下载
 
 ## v1.5.50
 

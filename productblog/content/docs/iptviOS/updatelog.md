@@ -9,11 +9,18 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-## v1.0.9
+## v1.0.10
 
 Release date: TBD
 
-- Feature: Standalone EPG page which show all epg channels
+- Pro Feature: Sleep timer for manually stopping the stream
+- Improvement: Munually add channel into favorites or local list
+
+## v1.0.9
+
+Release date: 2025/11/11
+
+- Pro Feature: Standalone EPG page which show all epg channels with search channels
 
 ## v1.0.8
 

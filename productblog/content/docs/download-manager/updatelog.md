@@ -10,6 +10,7 @@ prev: /docs/download-manager/dmkpro
 Date：TBD
 
 - Improvement: More native UI improvement in list
+- Bug fixes: Fix videos download
 
 ## v1.5.50
 
