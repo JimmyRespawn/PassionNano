@@ -7,7 +7,7 @@ prev: /docs/iptv/iptvplus
 
 IPTV 播放器目前正在积极开发中。
 
-## v1.0.44
+## v1.0.45
 
 发布日期: 待定
 

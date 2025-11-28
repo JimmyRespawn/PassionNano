@@ -9,12 +9,18 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-## v1.0.10
+## v1.0.11
 
 Release date: TBD
 
 - Pro Feature: Sleep timer for manually stopping the stream
 - Improvement: Munually add channel into favorites or local list
+
+## v1.0.10
+
+Release date: 2025/11/27
+
+- Bug fixes: Fix some failure of downloading playlists under XC
 
 ## v1.0.9
 
