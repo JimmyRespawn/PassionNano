@@ -5,6 +5,24 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.48
+
+**Release Date:** TBD
+
+- Feature: Brand-new Playlists section, now allowing the creation of empty playlists.
+- Improvement: Podcast titles and creator names are now selectable and can be copied.
+- Improvement: Reduced the delay when pinning to the Start menu.
+- Improvement: Improved UX and on-screen hints in the Discover and podcast list pages.
+- Bug Fix: Fixed an issue where the unplayed count was not fully displayed on the Home page.
+- Bug Fix: Fixed an issue where the 'New Releases' not showing for some users.
+- Bug Fix: Fixed an issue where podcast episodes could sometimes not be added to playlists.
+
+## v1.7.47
+
+**Release Date:** 2026/1/19
+
+- **Fix:** Fix the ads still on for pro users in Discover sections
+
 ## v1.7.46
 
 **Release Date:** 2025/10/22

@@ -9,12 +9,20 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-## v1.0.11
+## v1.0.12
 
 Release date: TBD
 
-- Pro Feature: Sleep timer for manually stopping the stream
 - Improvement: Munually add channel into favorites or local list
+
+## v1.0.11
+
+Release date: 2026/2/2
+
+- Feature: Added sleep timer to manually stop the stream
+- Feature: Keyboard shortcuts support—press F to toggle fullscreen, Space to play/pause, and R to refresh the stream
+- Improvement: Small UI tweaks to align with iOS 26 style
+- Bug fixes: Resolved issue where fullscreen would auto-exit after unlocking the device or returning to the player
 
 ## v1.0.10
 
