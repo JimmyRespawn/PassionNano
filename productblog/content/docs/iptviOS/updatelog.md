@@ -14,6 +14,7 @@ IPTV Fluent Player is constantly receiving updates and in active development rig
 Release date: TBD
 
 - Improvement: Munually add channel into favorites or local list
+- Bug fixes: Resolved issue where unable to rotate right with the device in fullscreen
 
 ## v1.0.11
 

@@ -7,9 +7,10 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.48
 
-**Release Date:** TBD
+**Release Date:** 2026/2/5
 
 - Feature: Brand-new Playlists section, now allowing the creation of empty playlists.
+- Feature: Add the legacy sidebar navigation in the settings.
 - Improvement: Podcast titles and creator names are now selectable and can be copied.
 - Improvement: Reduced the delay when pinning to the Start menu.
 - Improvement: Improved UX and on-screen hints in the Discover and podcast list pages.
