@@ -9,11 +9,18 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-## v1.0.12
+## v1.0.13
 
 Release date: TBD
 
 - Improvement: Munually add channel into favorites or local list
+
+## v1.0.12
+
+Release date: 2026/2/24
+
+- Feature: Player control lock and rotation lock button
+- Bug fixes: Resolved issue where exiting fullscreen after rotate the device
 - Bug fixes: Resolved issue where unable to rotate right with the device in fullscreen
 
 ## v1.0.11
