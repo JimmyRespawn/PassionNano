@@ -7,13 +7,20 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.47
+## v1.0.48
 
 Release date: TBD
 
 - Feature: Debugger for failing to grab a list or play a channel
 - Pro Feature: Backup and restore the app data in local file
-- Pro Feature: Customize unique option for each online list
+
+## v1.0.47
+
+Release date: 2026/3/2
+
+- Pro Feature: Set a unique EPG link for each online list
+- Improvement: Adjusted the EPG UI on the video playback page
+- Deprecation: Removed VLC audio output devices
 
 ## v1.0.46
 
