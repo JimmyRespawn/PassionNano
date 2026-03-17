@@ -5,6 +5,12 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.49
+
+**Release Date:** 2026/3/9
+
+- Bug Fix: Fixed no recommended podcasts in discover section for some region.
+
 ## v1.7.48
 
 **Release Date:** 2026/2/5

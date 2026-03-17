@@ -5,6 +5,12 @@ linkTitle: 更新日志
 prev: /docs/podcasted/podcastedpro
 ---
 
+## v1.7.49
+
+发布日期：2026/3/9
+
+- 修复：发现页无推荐播客的问题
+
 ## v1.7.48
 
 发布日期：2026/2/5

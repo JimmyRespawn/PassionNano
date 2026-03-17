@@ -7,12 +7,23 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.48
+## v1.0.49
 
 Release date: TBD
 
 - Feature: Debugger for failing to grab a list or play a channel
 - Pro Feature: Backup and restore the app data in local file
+- Pro Feature: Local server mode - merge multiple online playlists and testing the availability of channels. Output as m3u link at local network for other device usage
+- Pro Feature: Scheduler for recording video
+
+## v1.0.48
+
+Release date: April.2026
+
+- Feature: New subtitle addons search feature which enable one click loading from external subtitle websites (personal API is required)
+- Improvement: Add 'Never' option for online list update frequency
+- Improvement: Import online subtitle supports zip url
+- Bug fixes: Minor UI fixes and adjustment
 
 ## v1.0.47
 
