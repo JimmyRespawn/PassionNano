@@ -30,7 +30,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card  link="https://apps.microsoft.com/detail/9pkmdlwbc8zj?launch=true&mode=full&cid=officialwebsite"
     title="IPTV Fluent"
-    subtitle="A modern media player that allows users to play thier content like Live TV, VOD, Series."
+    subtitle="A modern media player that allows users to play their content like Live TV, VOD, Series."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/IPTV.showcase.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"

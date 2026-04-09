@@ -18,9 +18,10 @@ Release date: TBD
 
 ## v1.0.48
 
-Release date: April.2026
+Release date: 2026/4/9
 
-- Feature: New subtitle addons search feature which enable one click loading from external subtitle websites (personal API is required)
+- Pro Feature: New subtitle addons search feature which enable one click loading from external subtitle websites (personal API is required)
+- Feature: VLC | Settings to change the video brightness
 - Improvement: Add 'Never' option for online list update frequency
 - Improvement: Import online subtitle supports zip url
 - Bug fixes: Minor UI fixes and adjustment
