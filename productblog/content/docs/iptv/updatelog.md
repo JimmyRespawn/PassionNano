@@ -7,7 +7,7 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.49
+## v1.0.50
 
 Release date: TBD
 
@@ -15,6 +15,13 @@ Release date: TBD
 - Pro Feature: Backup and restore the app data in local file
 - Pro Feature: Local server mode - merge multiple online playlists and testing the availability of channels. Output as m3u link at local network for other device usage
 - Pro Feature: Scheduler for recording video
+
+## v1.0.49
+
+Release date: 2026/4/18
+
+- Bug fixes: IAP subscription hotfix
+- Bug fixes: Fix XC not loading while using special character in the username or password
 
 ## v1.0.48
 
