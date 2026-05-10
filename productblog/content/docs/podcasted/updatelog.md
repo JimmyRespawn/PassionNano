@@ -5,6 +5,10 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.50
+
+**Release Date:** 
+
 ## v1.7.49
 
 **Release Date:** 2026/3/9

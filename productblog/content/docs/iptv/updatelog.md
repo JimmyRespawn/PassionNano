@@ -7,14 +7,23 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.50
+## v1.0.51
 
 Release date: TBD
 
 - Feature: Debugger for failing to grab a list or play a channel
 - Pro Feature: Backup and restore the app data in local file
 - Pro Feature: Local server mode - merge multiple online playlists and testing the availability of channels. Output as m3u link at local network for other device usage
+
+## v1.0.50
+
+Release date: May/2026
+
 - Pro Feature: Scheduler for recording video
+- Improvement: Improve experience for accessibility users
+- Bug fixes: Fix the app occasionally exiting fullscreen under big picture mode
+- Bug fixes: Fix content that can not be loaded via the local network like Emby or Jellyfin
+- Bug fixes: Fix refresh button will redirect to the wrong local directory in the media hub 
 
 ## v1.0.49
 
