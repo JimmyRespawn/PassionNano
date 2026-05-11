@@ -9,12 +9,6 @@ hide_edit: true
 
 IPTV Fluent Player is constantly receiving updates and in active development right now.
 
-## v1.0.14
-
-Release date: TBD
-
-- Improvement: Munually add channel into favorites or local list
-
 ## v1.0.13
 
 Release date: 2026/3/17
