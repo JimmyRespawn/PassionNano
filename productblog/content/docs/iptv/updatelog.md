@@ -17,7 +17,7 @@ Release date: TBD
 
 ## v1.0.50
 
-Release date: May/2026
+Release date: 2026/5/11
 
 - Pro Feature: Scheduler for recording video
 - Improvement: Improve experience for accessibility users

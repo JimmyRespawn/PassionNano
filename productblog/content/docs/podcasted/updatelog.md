@@ -7,7 +7,12 @@ prev: /docs/podcastedapp/podcastedpro
 
 ## v1.7.50
 
-**Release Date:** 
+**Release Date:** 2026/5/10
+
+Improvement: Audio player now supports setting sleep timer and audio output directly
+Improvement: Added a more convenient custom time picker for sleep timer
+Bug fixes: Fixed inconsistent play button appearance in the pinned player
+Bug fixes: Fixed some page elements not being properly announced by Narrator
 
 ## v1.7.49
 
