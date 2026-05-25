@@ -19,6 +19,7 @@ Release date: TBD
 Release date: June 2026
 
 - Pro Feature: Shared playlist mode - merge multiple online playlists and testing the availability of channels. Output as m3u link at local network for other device usage
+- Bug fixes: Fix the compact mode or theatre mode won't active some time
 
 ## v1.0.50
 
