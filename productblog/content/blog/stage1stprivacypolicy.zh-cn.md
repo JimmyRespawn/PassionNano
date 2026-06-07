@@ -1,5 +1,5 @@
 ---
-title: Echo for Stage1st隐私策略
+title: ForumMate 论坛助手 隐私策略
 date: 2017-12-01
 authors:
   - name: JimmyRespawn
@@ -13,7 +13,7 @@ hidden: true
 url: "/private/168073230752/tumblr_p09xgjg9jK1unlq99"
 ---
 
-Echo for Stage1st（之后简称该应用）使用你的网络下载和上传内容。该应用不收集、使用任何个人信息，不存储个人资料或者将个人资料分享给第三方。
+ForumMate 论坛助手（之后简称该应用）使用你的网络下载和上传内容。该应用不收集、使用任何个人信息，不存储个人资料或者将个人资料分享给第三方。
 
 **使用数据**
 
