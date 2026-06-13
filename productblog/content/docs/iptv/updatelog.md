@@ -16,9 +16,10 @@ Release date: TBD
 
 ## v1.0.51
 
-Release date: June 2026
+Release date: 2026/6/15
 
 - Pro Feature: Shared playlist mode - merge multiple online playlists and testing the availability of channels. Output as m3u link at local network for other device usage
+- Improvement: Minor UX change in adding media hub source
 - Bug fixes: Fix the compact mode or theatre mode won't active some time
 
 ## v1.0.50
