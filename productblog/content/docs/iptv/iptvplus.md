@@ -37,7 +37,7 @@ Sign into account via official msft page to cancel the IPTV plus.
 
 ## Full feature list offered by Plus
 
-Offering 19+ exclusive PLUS features:
+Offering 20+ exclusive PLUS features:
 
 Playback
 
@@ -57,6 +57,7 @@ Playlists
 - Multiple online playlists setup
 - Export playlists
 - Cache lists with `Every day` or `Every month`
+- Shared playlist
 
 Mediahub
 
