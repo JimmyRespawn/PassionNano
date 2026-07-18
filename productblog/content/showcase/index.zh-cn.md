@@ -22,7 +22,7 @@ layout: wide
 
   {{< card
         link="https://apps.microsoft.com/detail/9NJ2QF6M25F6?hl=zh-CN&gl=CN&launch=true&mode=full&cid=officialwebsite"
-        title="Stage1st for UWP"
+        title="论坛助手"
         image="https://store-images.s-microsoft.com/image/apps.40959.13618597470610855.fd09a011-a182-4aec-9760-2d50e6bdceee.fe2f0da1-85f8-440e-9b03-5d0ae50eeac2?h=720" imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
