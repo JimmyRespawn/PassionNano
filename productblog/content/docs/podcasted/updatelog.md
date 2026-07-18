@@ -5,6 +5,13 @@ linkTitle: Update log
 prev: /docs/podcastedapp/podcastedpro
 ---
 
+## v1.7.51
+
+**Release Date:** 2026/6/24
+
+- Improvement: More native discover section and hotkeys UI
+- Bug fixes: Improve the stability
+
 ## v1.7.50
 
 **Release Date:** 2026/5/10

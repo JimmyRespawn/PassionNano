@@ -7,12 +7,19 @@ prev: /docs/iptv/iptvplus
 
 IPTV Fluent is constantly receiving updates and in active development right now.
 
-## v1.0.52
+## v1.0.53
 
 Release date: TBD
 
 - Feature: Debugger for failing to grab a list or play a channel
 - Pro Feature: Backup and restore the app data in local file
+
+## v1.0.52
+
+Release date: July
+
+- Improvement: Bring record into the first level menu
+- Bug fixes: Fix cast feature and push it into the second level menu
 
 ## v1.0.51
 
