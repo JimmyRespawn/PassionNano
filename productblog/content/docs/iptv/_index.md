@@ -88,7 +88,7 @@ iOS and iPad verison is available at app store. [Click here to download for free
 
 Starting at v1.0.34 for Windows & Xbox version. The app supports Emby, Jellyfin, WebDAV and DLNA as media servers.
 
-Access it by clicking the top right botton in the `Library` Page.
+Access it by clicking the top right button in the `Library` Page.
 
 The media info is accessible for Emby and Jellyfin servers. Currently there is no modification for poster wall yet. We'll see how it performs as media player now.
 
