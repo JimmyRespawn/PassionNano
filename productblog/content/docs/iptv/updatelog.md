@@ -11,15 +11,15 @@ IPTV Fluent is constantly receiving updates and in active development right now.
 
 Release date: TBD
 
-- Feature: Debugger for failing to grab a list or play a channel
 - Pro Feature: Backup and restore the app data in local file
+- Bug fixes: Fix cast feature and push it into the second level menu
 
 ## v1.0.52
 
-Release date: July
+Release date: 2026/7/27
 
+- Feature: Debugger for failing to grab a list or play a channel
 - Improvement: Bring record into the first level menu
-- Bug fixes: Fix cast feature and push it into the second level menu
 
 ## v1.0.51
 
